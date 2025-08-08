@@ -12,15 +12,15 @@ IDIOMS
 
 INTERNAL LINKS
 [[anger]] Dn1/Dv1
-Linked to [[extremes]] through Dn1
-Linked [[chaos]] through Dn1/Dv1
-Linked to [[violence]] through Dn1/Dv1
-Linked to [[passion]] through Dn2
-Linked to [[rebellion]] through I1
+[[extremes]] through noun 1
+[[chaos]] through noun 1& verb 1
+[[violence]] through noun 1& verb 1
+[[passion]] through noun 2
+[[rebellion]] through idiom 1
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/rage
 
 #rage
 
-[^1]: Rebellion against the system
+[^1]: [[rebellion]] against the system
