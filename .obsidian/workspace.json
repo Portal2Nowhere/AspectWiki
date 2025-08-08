@@ -27,6 +27,21 @@
             "state": {
               "type": "split-diff-view",
               "state": {
+                "aFile": ".obsidian/core-plugins-migration.json",
+                "bFile": ".obsidian/core-plugins-migration.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: core-plugins-migration.json"
+            }
+          },
+          {
+            "id": "0b181c1b36bd29c1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
                 "aFile": "conflict-files-obsidian-git.md",
                 "bFile": "conflict-files-obsidian-git.md",
                 "aRef": ""
@@ -36,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c405ca70f981a7b3",
+  "active": "0b181c1b36bd29c1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Stuff/Aspects/Mind.md",
