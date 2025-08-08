@@ -11,10 +11,10 @@ IDIOMS
 [^1]Rage against the machine
 
 INTERNAL LINKS
-[[anger]] Dn1/Dv1
+[[anger]] noun 1 & verb 1
 [[extremes]] through noun 1
-[[chaos]] through noun 1& verb 1
-[[violence]] through noun 1& verb 1
+[[chaos]] through noun 1 & verb 1
+[[violence]] through noun 1 & verb 1
 [[passion]] through noun 2
 [[rebellion]] through idiom 1
 
