@@ -34,9 +34,33 @@
               "icon": "lucide-file",
               "title": "Rage"
             }
+          },
+          {
+            "id": "37847bda69252bae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "61b3352c4fb85615",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/extended-graph/data.json",
+                "bFile": ".obsidian/plugins/extended-graph/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff/Aspects/Rage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rage"
+              "title": "Outline"
             }
           },
           {
@@ -195,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edb14b49d0dde223",
+  "active": "61b3352c4fb85615",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Stuff/Aspects/Rage.md",
     "Stuff/Aspects/Heart.md",
     "Stuff/Words/anger.md",
     "Stuff/Words/extremes.md",
@@ -205,11 +229,10 @@
     "Stuff/Words/violence.md",
     "Stuff/Words/chaos.md",
     "Stuff/Aspects/Life.md",
-    "Stuff/Aspects/Rage.md",
     "Stuff/Aspects/Void.md",
     "Stuff/Aspects/Doom.md",
-    "personality.md",
-    "emotion.md",
+    "Stuff/Words/personality.md",
+    "Stuff/Words/emotion.md",
     "Stuff/Aspects/Hope.md",
     "Stuff/Aspects/Space.md",
     "Stuff/Aspects/Mind.md",
@@ -219,7 +242,6 @@
     "Stuff/Aspects/Time.md",
     "README.md",
     "Stuff/Info & Instructions.md",
-    "conflict-files-obsidian-git.md",
     "Welcome.md",
     "Stuff/Words",
     "Stuff/Aspects",
