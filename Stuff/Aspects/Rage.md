@@ -23,4 +23,4 @@ https://dictionary.cambridge.org/dictionary/english/rage
 
 #rage
 
-[^1]: Rebellion against the system
+[^1]: [[rebellion]] against the system
