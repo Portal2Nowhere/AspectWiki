@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e243e4914d25a2b8",
+    "id": "37abbb21dee5c5a1",
     "type": "split",
     "children": [
       {
-        "id": "9694d49d786ffc80",
+        "id": "70b1d61613cecc20",
         "type": "tabs",
         "children": [
           {
-            "id": "3f3ff7afdc25b9d8",
+            "id": "1482fb6d950de3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Stuff/Aspects/Rage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Rage"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c4be25f1c255556",
+    "id": "f4e9717e14f2cd09",
     "type": "split",
     "children": [
       {
-        "id": "e94769b9cc0719ec",
+        "id": "c2e72e44c43b6f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "d8242e0e55eb3bfb",
+            "id": "b7542abaaa8fae41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2f82ba13d744a5de",
+            "id": "c35c9d64f39ea8e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a4aaf25412d5e329",
+            "id": "93eda4be39166e97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "dfb8f08e965a89a5",
+    "id": "700d1148a1a4dd1a",
     "type": "split",
     "children": [
       {
-        "id": "644de9279bab08df",
+        "id": "474f56214cc2d5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "826cec9505b84e2a",
+            "id": "251116e4f4da1c1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Stuff/Aspects/Rage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Rage"
             }
           },
           {
-            "id": "84ee35811c587aa8",
+            "id": "994134b28306458e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9e01591d989157a0",
+            "id": "4e1859dad31e9e6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,72 +136,86 @@
             }
           },
           {
-            "id": "749f53681b437d6f",
+            "id": "0e2ef6fd718664be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Stuff/Aspects/Rage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Rage"
+            }
+          },
+          {
+            "id": "d5a60374598235e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f3ff7afdc25b9d8",
+  "active": "d5a60374598235e4",
   "lastOpenFiles": [
-    "README.md",
-    "Stuff/Words/extremes.md",
-    "Stuff/Words/violence.md",
-    "Stuff/Words/rebellion.md",
-    "Stuff/Words/passion.md",
-    "Stuff/Words/chaos.md",
-    "Stuff/Words/anger.md",
-    "Stuff/Aspects/Void.md",
-    "Stuff/Aspects/Time.md",
-    "Stuff/Aspects/Space.md",
-    "Stuff/Aspects/Rage.md",
-    "Stuff/Aspects/Mind.md",
-    "Stuff/Aspects/Light.md",
-    "Stuff/Aspects/Life.md",
-    "Stuff/Aspects/Hope.md",
     "Stuff/Aspects/Heart.md",
-    "Stuff/Aspects/Doom.md",
+    "Stuff/Aspects/Rage.md",
+    "Stuff/Aspects/Life.md",
     "Stuff/Aspects/Breath.md",
+    "Stuff/Words/passion.md",
     "Stuff/Aspects/Blood.md",
-    "Stuff/Words",
+    "Stuff/Aspects/Hope.md",
+    "Stuff/Aspects/Light.md",
+    "Stuff/Aspects/Doom.md",
+    "Stuff/Words/extremes.md",
+    "Stuff/Aspects/Mind.md",
+    "Stuff/Words/violence.md",
+    "Stuff/Aspects/Time.md",
+    "Stuff/Aspects/Void.md",
+    "README.md",
+    "Aspect-wiki/Stuff/Aspects/Rage.md",
+    "Welcome.md",
+    "Stuff/Words/anger.md",
+    "Stuff/Words/rebellion.md",
+    "Stuff/Words/chaos.md",
+    "Stuff/Aspects/Space.md",
     "Stuff/Info & Instructions.md",
+    "Stuff/Words",
     "Stuff/Aspects",
     "Stuff",
-    "pewpew/Stuff/Aspects/Breath.md",
-    "pewpew/README.md",
-    "Welcome.md",
-    "pewpew/Stuff/Words/rebellion.md",
-    "pewpew/Stuff/Words/violence.md",
-    "pewpew/Stuff/Words/passion.md",
-    "pewpew/Stuff/Words",
-    "pewpew/Stuff/Aspects",
-    "pewpew/Stuff",
-    "pewpew"
+    "Aspect-wiki/Welcome.md",
+    "Aspect-wiki/README.md",
+    "conflict-files-obsidian-git.md",
+    "Aspect-wiki/Stuff/Words/violence.md",
+    "Aspect-wiki/Stuff/Words",
+    "Aspect-wiki/Stuff/Aspects",
+    "Aspect-wiki/Stuff",
+    "Aspect-wiki",
+    "Stuff.zip",
+    "Untitled.canvas",
+    "Words",
+    "Template/Words/Concepts"
   ]
 }
