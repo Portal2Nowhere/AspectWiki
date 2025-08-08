@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "enableFeatures": {
     "graph": {
@@ -163,6 +162,7 @@
         "link",
         "link",
         "link",
+        "link",
         "link"
       ],
       "collapsedLegendRows": []
@@ -183,57 +183,57 @@
         "folder": "OR"
       },
       "pinNodes": {
-        "Aspects/Heart.md": {
-          "x": 544.1645002305572,
-          "y": 474.30494395739515
+        "README.md": {
+          "x": 354.4850158691406,
+          "y": -324.98016357421875
         },
-        "Aspects/Rage.md": {
-          "x": 241.23859818390065,
-          "y": 614.3118221029141
+        "Stuff/Aspects/Blood.md": {
+          "x": -77.44784093357339,
+          "y": 355.96688027144256
         },
-        "Aspects/Blood.md": {
-          "x": -97.89159496119919,
-          "y": 636.9938498389257
+        "Stuff/Aspects/Breath.md": {
+          "x": -84.51285710999957,
+          "y": -430.276512684018
         },
-        "Aspects/Breath.md": {
-          "x": 88.0686279187205,
-          "y": -481.1512343367191
+        "Stuff/Aspects/Doom.md": {
+          "x": -334.8228657517622,
+          "y": 306.51132324110614
         },
-        "Aspects/Doom.md": {
-          "x": -399.4350439834526,
-          "y": 548.0115634257983
+        "Stuff/Aspects/Heart.md": {
+          "x": 286.9170073634043,
+          "y": 195.48850590167712
         },
-        "Aspects/Hope.md": {
-          "x": -322.9638797635039,
-          "y": -423.8238636390722
+        "Stuff/Aspects/Hope.md": {
+          "x": -334.8228657517622,
+          "y": -372.7465092604886
         },
-        "Aspects/Life.md": {
-          "x": 314.7507802692576,
-          "y": -381.5107661420796
+        "Stuff/Aspects/Life.md": {
+          "x": 140.56421385783563,
+          "y": -377.79300095773533
         },
-        "Aspects/Light.md": {
-          "x": 522.3155961677148,
-          "y": -159.02600851184633
+        "Stuff/Aspects/Light.md": {
+          "x": 314.16846608447133,
+          "y": -210.24947275897483
         },
-        "Aspects/Mind.md": {
-          "x": -544.1840333997841,
-          "y": -251.84175154613166
+        "Stuff/Aspects/Mind.md": {
+          "x": -496.31317403558853,
+          "y": -238.5098185632216
         },
-        "Aspects/Space.md": {
-          "x": -661.6218927375626,
-          "y": 22.51066536403539
+        "Stuff/Aspects/Rage.md": {
+          "x": 156.71330628988198,
+          "y": 295.40897990448144
         },
-        "Aspects/Time.md": {
-          "x": 635.6567859937102,
-          "y": 134.43553196420305
+        "Stuff/Aspects/Space.md": {
+          "x": -555.8627406161654,
+          "y": -50.78034282631211
         },
-        "Aspects/Void.md": {
-          "x": -645.479753036189,
-          "y": 376.2908069043889
+        "Stuff/Aspects/Time.md": {
+          "x": 375.7365537121847,
+          "y": 17.851975057584923
         },
-        "Info & Instructions.md": {
-          "x": 808.0228697461239,
-          "y": -475.45332973041764
+        "Stuff/Aspects/Void.md": {
+          "x": -520.5367356790784,
+          "y": 146.03287186798826
         }
       },
       "hiddenLegendRows": [
@@ -258,15 +258,9 @@
       }
     }
   ],
-<<<<<<< HEAD
   "startingStateID": "979d5e06-eab1-4a13-bfd2-b8a7b01eac2b",
   "syncDefaultState": false,
   "saveConfigsWithState": false,
-=======
-  "startingStateID": "default-vault",
-  "syncDefaultState": true,
-  "saveConfigsWithState": true,
->>>>>>> origin/main
   "customColorMaps": {
     "aspect colors": {
       "colors": [
@@ -505,7 +499,7 @@
   "collapseLegend": false,
   "resetAfterChanges": false,
   "collapsedSettings": {
-    "automation": true,
+    "automation": false,
     "tags": false,
     "properties": true,
     "links": true,
@@ -539,546 +533,4 @@
     "showIcons": false
   },
   "multipleNodesData": {}
-=======
-{
-  "enableFeatures": {
-    "graph": {
-      "auto-enabled": true,
-      "tags": true,
-      "properties": false,
-      "property-key": false,
-      "links": true,
-      "linksSameColorAsNode": true,
-      "folders": false,
-      "imagesFromProperty": false,
-      "imagesFromEmbeds": false,
-      "imagesForAttachments": false,
-      "focus": true,
-      "shapes": true,
-      "elements-stats": true,
-      "names": false,
-      "icons": false,
-      "arrows": true,
-      "layers": false
-    },
-    "localgraph": {
-      "auto-enabled": true,
-      "tags": true,
-      "properties": false,
-      "property-key": false,
-      "links": true,
-      "linksSameColorAsNode": true,
-      "folders": false,
-      "imagesFromProperty": false,
-      "imagesFromEmbeds": false,
-      "imagesForAttachments": false,
-      "focus": false,
-      "shapes": true,
-      "elements-stats": true,
-      "names": false,
-      "icons": false,
-      "arrows": true,
-      "layers": false
-    }
-  },
-  "interactiveSettings": {
-    "tag": {
-      "colormap": "custom:aspect colors",
-      "colors": [],
-      "unselected": [],
-      "excludeRegex": {
-        "regex": "",
-        "flags": ""
-      },
-      "noneType": "none",
-      "showOnGraph": true,
-      "enableByDefault": true
-    },
-    "link": {
-      "colormap": "rainbow",
-      "colors": [],
-      "unselected": [],
-      "excludeRegex": {
-        "regex": "",
-        "flags": ""
-      },
-      "noneType": "none",
-      "showOnGraph": true,
-      "enableByDefault": true
-    },
-    "folder": {
-      "colormap": "winter",
-      "colors": [],
-      "unselected": [],
-      "excludeRegex": {
-        "regex": "",
-        "flags": ""
-      },
-      "noneType": ".",
-      "showOnGraph": true,
-      "enableByDefault": false
-    },
-    "tags": {
-      "colormap": "rainbow",
-      "colors": [
-        {
-          "type": "#rage",
-          "color": "#001eff"
-        }
-      ],
-      "unselected": [],
-      "excludeRegex": {
-        "regex": "",
-        "flags": ""
-      },
-      "noneType": "none",
-      "showOnGraph": true,
-      "enableByDefault": true
-    }
-  },
-  "additionalProperties": {
-    "tags": {
-      "graph": true,
-      "localgraph": true
-    }
-  },
-  "backupGraphOptions": {
-    "collapse-filter": true,
-    "search": "",
-    "showTags": false,
-    "showAttachments": false,
-    "hideUnresolved": false,
-    "showOrphans": true,
-    "collapse-color-groups": true,
-    "colorGroups": [],
-    "collapse-display": true,
-    "showArrow": false,
-    "textFadeMultiplier": 0,
-    "nodeSizeMultiplier": 1,
-    "lineSizeMultiplier": 1,
-    "collapse-forces": true,
-    "centerStrength": 0.518713248970312,
-    "repelStrength": 10,
-    "linkStrength": 1,
-    "linkDistance": 250,
-    "scale": 1,
-    "close": false
-  },
-  "openInNewTab": false,
-  "canonicalizePropertiesWithDataview": true,
-  "states": [
-    {
-      "id": "default-vault",
-      "name": "Default state",
-      "engineOptions": {
-        "colorGroups": [],
-        "search": "",
-        "hideUnresolved": false,
-        "showAttachments": false,
-        "showOrphans": true,
-        "showTags": false,
-        "lineSizeMultiplier": 1,
-        "nodeSizeMultiplier": 1,
-        "showArrow": false,
-        "textFadeMultiplier": 0,
-        "centerStrength": 0.518713248970312,
-        "linkDistance": 250,
-        "linkStrength": 1,
-        "repelStrength": 10
-      },
-      "toggleTypes": {
-        "tag": [],
-        "link": [],
-        "folder": []
-      },
-      "logicTypes": {
-        "tag": "OR",
-        "link": "OR",
-        "folder": "OR"
-      },
-      "enableLayers": false,
-      "currentLayerLevel": 0,
-      "pinNodes": {},
-      "hiddenLegendRows": [
-        "link",
-        "link",
-        "link",
-        "link",
-        "link"
-      ],
-      "collapsedLegendRows": []
-    },
-    {
-      "id": "979d5e06-eab1-4a13-bfd2-b8a7b01eac2b",
-      "name": "aspect wheel",
-      "enableLayers": false,
-      "currentLayerLevel": 0,
-      "toggleTypes": {
-        "tag": [],
-        "link": [],
-        "folder": []
-      },
-      "logicTypes": {
-        "tag": "OR",
-        "link": "OR",
-        "folder": "OR"
-      },
-      "pinNodes": {
-        "Aspects/Heart.md": {
-          "x": 544.1645002305572,
-          "y": 474.30494395739515
-        },
-        "Aspects/Rage.md": {
-          "x": 241.23859818390065,
-          "y": 614.3118221029141
-        },
-        "Aspects/Blood.md": {
-          "x": -97.89159496119919,
-          "y": 636.9938498389257
-        },
-        "Aspects/Breath.md": {
-          "x": 88.0686279187205,
-          "y": -481.1512343367191
-        },
-        "Aspects/Doom.md": {
-          "x": -399.4350439834526,
-          "y": 548.0115634257983
-        },
-        "Aspects/Hope.md": {
-          "x": -322.9638797635039,
-          "y": -423.8238636390722
-        },
-        "Aspects/Life.md": {
-          "x": 314.7507802692576,
-          "y": -381.5107661420796
-        },
-        "Aspects/Light.md": {
-          "x": 522.3155961677148,
-          "y": -159.02600851184633
-        },
-        "Aspects/Mind.md": {
-          "x": -544.1840333997841,
-          "y": -251.84175154613166
-        },
-        "Aspects/Space.md": {
-          "x": -661.6218927375626,
-          "y": 22.51066536403539
-        },
-        "Aspects/Time.md": {
-          "x": 635.6567859937102,
-          "y": 134.43553196420305
-        },
-        "Aspects/Void.md": {
-          "x": -645.479753036189,
-          "y": 376.2908069043889
-        },
-        "Info & Instructions.md": {
-          "x": 808.0228697461239,
-          "y": -475.45332973041764
-        }
-      },
-      "hiddenLegendRows": [
-        "link"
-      ],
-      "collapsedLegendRows": [],
-      "engineOptions": {
-        "colorGroups": [],
-        "search": "",
-        "hideUnresolved": false,
-        "showAttachments": false,
-        "showOrphans": true,
-        "showTags": false,
-        "lineSizeMultiplier": 1,
-        "nodeSizeMultiplier": 1,
-        "showArrow": false,
-        "textFadeMultiplier": 0,
-        "centerStrength": 0.518713248970312,
-        "linkDistance": 50,
-        "linkStrength": 1,
-        "repelStrength": 10
-      }
-    }
-  ],
-<<<<<<< HEAD
-  "startingStateID": "979d5e06-eab1-4a13-bfd2-b8a7b01eac2b",
-  "syncDefaultState": false,
-  "saveConfigsWithState": false,
-=======
-  "startingStateID": "default-vault",
-  "syncDefaultState": true,
-  "saveConfigsWithState": true,
->>>>>>> origin/main
-  "customColorMaps": {
-    "aspect colors": {
-      "colors": [
-        "#ff0000",
-        "#fee258",
-        "#0000ff",
-        "#00b365",
-        "#798600",
-        "#00b3ff",
-        "#ff006f",
-        "#8cff00",
-        "#ffffff",
-        "#7f00ff",
-        "#ff0000",
-        "#fbff0f"
-      ],
-      "stops": [
-        0,
-        0.34980988593155893,
-        0.9315589353612167,
-        0.6178707224334601,
-        0.15019011406844107,
-        0.0779467680608365,
-        0.26045627376425856,
-        0.435361216730038,
-        0.7946768060836502,
-        0.7072243346007605,
-        0.8555133079847909,
-        0.5190114068441065
-      ],
-      "interpolate": false,
-      "reverse": false
-    }
-  },
-  "imageProperties": [
-    "image"
-  ],
-  "borderFactor": 0.06,
-  "allowExternalImages": false,
-  "allowExternalLocalImages": false,
-  "nodesSizeProperties": [
-    ""
-  ],
-  "nodesSizeFunction": "totallinksCount",
-  "nodesSizeRange": {
-    "min": 0.5,
-    "max": 1.5
-  },
-  "nodesColorColormap": "hsv",
-  "nodesColorFunction": "default",
-  "invertNodeStats": false,
-  "linksSizeFunction": "Ocurences",
-  "linksColorColormap": "YlOrRd",
-  "linksColorFunction": "default",
-  "recomputeStatsOnGraphChange": false,
-  "zoomFactor": 2,
-  "maxNodes": 100,
-  "delay": 500,
-  "revertAction": false,
-  "enableCSS": false,
-  "cssSnippetFilename": "",
-  "shapeQueries": {
-    "circle": {
-      "combinationLogic": "AND",
-      "index": 0,
-      "rules": [
-        {
-          "source": "link",
-          "property": "",
-          "value": "1",
-          "logic": "is"
-        }
-      ]
-    },
-    "square": {
-      "combinationLogic": "AND",
-      "index": 119,
-      "rules": [
-        {
-          "source": "link",
-          "property": "",
-          "value": "4",
-          "logic": "is"
-        }
-      ]
-    },
-    "triangle": {
-      "combinationLogic": "AND",
-      "index": 118,
-      "rules": [
-        {
-          "source": "link",
-          "property": "",
-          "value": "3",
-          "logic": "is"
-        }
-      ]
-    },
-    "diamond": {
-      "combinationLogic": "AND",
-      "index": 3,
-      "rules": [
-        {
-          "source": "link",
-          "property": "",
-          "value": "",
-          "logic": "is"
-        }
-      ]
-    },
-    "pentagon": {
-      "combinationLogic": "AND",
-      "index": 4,
-      "rules": [
-        {
-          "source": "link",
-          "property": "",
-          "value": "5",
-          "logic": "is"
-        }
-      ]
-    },
-    "hexagon": {
-      "combinationLogic": "AND",
-      "index": 5,
-      "rules": []
-    },
-    "octagon": {
-      "combinationLogic": "AND",
-      "index": 6,
-      "rules": []
-    },
-    "decagon": {
-      "combinationLogic": "AND",
-      "index": 7,
-      "rules": []
-    },
-    "star4": {
-      "combinationLogic": "AND",
-      "index": 8,
-      "rules": []
-    },
-    "star5": {
-      "combinationLogic": "AND",
-      "index": 9,
-      "rules": []
-    },
-    "star6": {
-      "combinationLogic": "AND",
-      "index": 10,
-      "rules": []
-    },
-    "star8": {
-      "combinationLogic": "AND",
-      "index": 11,
-      "rules": []
-    },
-    "star10": {
-      "combinationLogic": "AND",
-      "index": 12,
-      "rules": []
-    }
-  },
-  "colorBasedOnDepth": false,
-  "depthColormap": "rainbow",
-  "currentNode": {
-    "useColor": false,
-    "color": "#000000",
-    "size": 100,
-    "shape": "circle"
-  },
-  "fadeOnDisable": false,
-  "focusScaleFactor": 1.8,
-  "borderUnresolved": "",
-  "spreadArcs": true,
-  "weightArcs": false,
-  "animateDotsOnLinks": false,
-  "animationSpeedForDots": 1,
-  "interactivesBrightness": {
-    "light": 1,
-    "dark": 1
-  },
-  "fadeInElements": false,
-  "externalLinks": "none",
-  "allowMultipleLinkTypes": false,
-  "disableSource": false,
-  "disableTarget": false,
-  "excludedSourcesFolder": [],
-  "excludedTargetsFolder": [],
-  "curvedLinks": false,
-  "curvedFactor": 1,
-  "outlineLinks": false,
-  "displayLinkTypeLabel": false,
-  "colorLinkTypeLabel": false,
-  "noLineHighlight": false,
-  "folderShowFullPath": true,
-  "invertArrows": false,
-  "flatArrows": true,
-  "opaqueArrowsButKeepFading": false,
-  "alwaysOpaqueArrows": false,
-  "arrowScale": 1,
-  "arrowFixedSize": false,
-  "arrowColorBool": true,
-  "arrowColor": "#ff00f7",
-  "numberOfCharacters": null,
-  "showOnlyFileName": false,
-  "noExtension": false,
-  "usePropertiesForName": [],
-  "addBackgroundToName": false,
-  "nameVerticalOffset": 0,
-  "dynamicVerticalOffset": false,
-  "showNamesWhenNeighborHighlighted": false,
-  "iconProperties": [
-    ""
-  ],
-  "usePluginForIcon": true,
-  "usePluginForIconColor": true,
-  "useParentIcon": false,
-  "layerProperties": [
-    "layer"
-  ],
-  "numberOfActiveLayers": 4,
-  "layersOrder": "ASC",
-  "displayLabelsInUI": true,
-  "nodesWithoutLayerOpacity": 0,
-  "useLayerCustomOpacity": true,
-  "layersCustomOpacity": {},
-  "layersLevels": {},
-  "defaultLevelForLayers": 0,
-  "horizontalLegend": false,
-  "useRadialMenu": true,
-  "radialMenuModifier": "Mod",
-  "pinNodeModifier": "Alt",
-  "filterAbstractFiles": [],
-  "collapseState": false,
-  "collapseLegend": false,
-  "resetAfterChanges": false,
-  "collapsedSettings": {
-    "automation": true,
-    "tags": false,
-    "properties": true,
-    "links": true,
-    "arrows": true,
-    "folders": true,
-    "images": true,
-    "icons": true,
-    "focus": true,
-    "shapes": true,
-    "layers": true,
-    "elements-stats": false,
-    "names": true,
-    "zoom": true,
-    "local-graph": true,
-    "display": false,
-    "filter": true,
-    "inputs": true,
-    "performances": true,
-    "beta": true
-  },
-  "exportSVGOptions": {
-    "asImage": true,
-    "onlyVisibleArea": false,
-    "showNodeNames": true,
-    "useCurvedLinks": false,
-    "useModifiedArrows": true,
-    "useNodesShapes": true,
-    "showArcs": true,
-    "showFolders": false,
-    "useModifiedNames": false,
-    "showIcons": false
-  },
-  "multipleNodesData": {}
->>>>>>> origin/main
 }
