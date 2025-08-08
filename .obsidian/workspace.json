@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -181,6 +180,7 @@
   },
   "active": "3f3ff7afdc25b9d8",
   "lastOpenFiles": [
+    "Stuff/Aspects/Mind.md",
     "Welcome.md",
     "README.md",
     "Stuff/Words/extremes.md",
@@ -193,7 +193,6 @@
     "Stuff/Aspects/Time.md",
     "Stuff/Aspects/Space.md",
     "Stuff/Aspects/Rage.md",
-    "Stuff/Aspects/Mind.md",
     "Stuff/Aspects/Light.md",
     "Stuff/Aspects/Life.md",
     "Stuff/Aspects/Hope.md",
