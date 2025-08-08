@@ -18,4 +18,4 @@ https://dictionary.cambridge.org/dictionary/english/time
 
 #time
 
-[^1]: time being pressious, finite and limited
+[^1]: time being precious, finite and limited
