@@ -1,14 +1,42 @@
 {
   "main": {
-    "id": "37abbb21dee5c5a1",
+    "id": "e243e4914d25a2b8",
     "type": "split",
     "children": [
       {
-        "id": "70b1d61613cecc20",
+        "id": "9694d49d786ffc80",
         "type": "tabs",
         "children": [
           {
-            "id": "1482fb6d950de3fe",
+            "id": "0b181c1b36bd29c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff/Aspects/Heart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heart"
+            }
+          },
+          {
+            "id": "edb14b49d0dde223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff/Aspects/Rage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rage"
+            }
+          },
+          {
+            "id": "37847bda69252bae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,45 +46,49 @@
             }
           },
           {
-            "id": "187dc2e327cfc823",
+            "id": "61b3352c4fb85615",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/plugins/extended-graph/data.json",
+                "bFile": ".obsidian/plugins/extended-graph/data.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: data.json"
             }
           },
           {
-            "id": "f84b04d692607b16",
+            "id": "40b9e49131040caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/extended-graph/data.json",
+                "bFile": ".obsidian/plugins/extended-graph/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f4e9717e14f2cd09",
+    "id": "7c4be25f1c255556",
     "type": "split",
     "children": [
       {
-        "id": "c2e72e44c43b6f4c",
+        "id": "e94769b9cc0719ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b7542abaaa8fae41",
+            "id": "d8242e0e55eb3bfb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +101,7 @@
             }
           },
           {
-            "id": "c35c9d64f39ea8e4",
+            "id": "2f82ba13d744a5de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +118,7 @@
             }
           },
           {
-            "id": "93eda4be39166e97",
+            "id": "a4aaf25412d5e329",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,19 +134,20 @@
     "width": 300
   },
   "right": {
-    "id": "700d1148a1a4dd1a",
+    "id": "dfb8f08e965a89a5",
     "type": "split",
     "children": [
       {
-        "id": "474f56214cc2d5e3",
+        "id": "644de9279bab08df",
         "type": "tabs",
         "children": [
           {
-            "id": "251116e4f4da1c1b",
+            "id": "826cec9505b84e2a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,24 +157,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "994134b28306458e",
+            "id": "84ee35811c587aa8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "4e1859dad31e9e6f",
+            "id": "9e01591d989157a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,7 +190,7 @@
             }
           },
           {
-            "id": "0e2ef6fd718664be",
+            "id": "749f53681b437d6f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -170,7 +204,7 @@
             }
           },
           {
-            "id": "d5a60374598235e4",
+            "id": "2f87fc4eee6672e3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -197,44 +231,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84b04d692607b16",
+  "active": "40b9e49131040caa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Stuff/Aspects/Rage.md",
     "Stuff/Aspects/Heart.md",
-    "Stuff/Aspects/Life.md",
-    "Stuff/Aspects/Breath.md",
-    "Stuff/Words/passion.md",
-    "Stuff/Aspects/Blood.md",
-    "Stuff/Aspects/Hope.md",
-    "Stuff/Aspects/Light.md",
-    "Stuff/Aspects/Doom.md",
-    "Stuff/Words/extremes.md",
-    "Stuff/Aspects/Mind.md",
-    "Stuff/Words/violence.md",
-    "Stuff/Aspects/Time.md",
-    "Stuff/Aspects/Void.md",
-    "README.md",
-    "Aspect-wiki/Stuff/Aspects/Rage.md",
-    "Welcome.md",
     "Stuff/Words/anger.md",
+    "Stuff/Words/extremes.md",
+    "Stuff/Words/passion.md",
     "Stuff/Words/rebellion.md",
+    "Stuff/Words/violence.md",
     "Stuff/Words/chaos.md",
+    "Stuff/Aspects/Life.md",
+    "Stuff/Aspects/Void.md",
+    "Stuff/Aspects/Doom.md",
+    "Stuff/Words/personality.md",
+    "Stuff/Words/emotion.md",
+    "Stuff/Aspects/Hope.md",
     "Stuff/Aspects/Space.md",
+    "Stuff/Aspects/Mind.md",
+    "Stuff/Aspects/Breath.md",
+    "Stuff/Aspects/Light.md",
+    "Stuff/Aspects/Blood.md",
+    "Stuff/Aspects/Time.md",
+    "README.md",
     "Stuff/Info & Instructions.md",
+    "Welcome.md",
     "Stuff/Words",
     "Stuff/Aspects",
     "Stuff",
-    "Aspect-wiki/Welcome.md",
-    "Aspect-wiki/README.md",
-    "Aspect-wiki/Stuff/Words/violence.md",
-    "Aspect-wiki/Stuff/Words",
-    "Aspect-wiki/Stuff/Aspects",
-    "Aspect-wiki/Stuff",
-    "Aspect-wiki",
-    "Stuff.zip",
-    "Untitled.canvas",
-    "Words",
-    "Template/Words/Concepts"
+    "pewpew/Stuff/Aspects/Breath.md",
+    "pewpew/README.md",
+    "pewpew/Stuff/Words",
+    "pewpew/Stuff/Aspects",
+    "pewpew/Stuff",
+    "pewpew"
   ]
 }
