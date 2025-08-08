@@ -11,10 +11,24 @@
             "id": "0b181c1b36bd29c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Stuff/Aspects/Rage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rage"
+            }
+          },
+          {
+            "id": "edb14b49d0dde223",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb8f08e965a89a5",
@@ -138,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stuff/Aspects/Rage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Rage"
             }
           },
           {
@@ -176,6 +192,7 @@
   },
   "active": "0b181c1b36bd29c1",
   "lastOpenFiles": [
+    "Stuff/Aspects/Rage.md",
     "README.md",
     "Stuff/Info & Instructions.md",
     "conflict-files-obsidian-git.md",
@@ -190,7 +207,6 @@
     "Stuff/Aspects/Void.md",
     "Stuff/Aspects/Time.md",
     "Stuff/Aspects/Space.md",
-    "Stuff/Aspects/Rage.md",
     "Stuff/Aspects/Light.md",
     "Stuff/Aspects/Life.md",
     "Stuff/Aspects/Hope.md",
