@@ -6,13 +6,20 @@ noun
 4. courage, determination
 
 IDIOMS
+[^1]take/ lose heart
+[^2]heart and soul
 
 INTERNAL LINKS
 [[personality]] noun 1
 [[emotion]] noun 2
-[[courage]]
-[[determination]]
+[[courage]] noun 4 & idiom 1
+[[determination]] noun 4 & idiom 1
+[[passion]] idiom 2
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
 #heart
+
+[^1]: to gather or lose courage or determination
+
+[^2]: with your entire being, with all your passion
