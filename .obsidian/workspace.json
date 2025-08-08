@@ -13,15 +13,30 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "Welcome.md",
+                "bFile": "Welcome.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: Welcome"
+            }
+          },
+          {
+            "id": "c405ca70f981a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f3ff7afdc25b9d8",
+  "active": "c405ca70f981a7b3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Stuff/Aspects/Mind.md",
     "Welcome.md",
     "README.md",
@@ -208,7 +224,6 @@
     "pewpew/README.md",
     "pewpew/Stuff/Words/rebellion.md",
     "pewpew/Stuff/Words/violence.md",
-    "pewpew/Stuff/Words/passion.md",
     "pewpew/Stuff/Words",
     "pewpew/Stuff/Aspects",
     "pewpew/Stuff",
