@@ -256,7 +256,7 @@
       }
     }
   ],
-  "startingStateID": "default-vault",
+  "startingStateID": "979d5e06-eab1-4a13-bfd2-b8a7b01eac2b",
   "syncDefaultState": true,
   "saveConfigsWithState": true,
   "customColorMaps": {
@@ -497,7 +497,7 @@
   "collapseLegend": false,
   "resetAfterChanges": false,
   "collapsedSettings": {
-    "automation": true,
+    "automation": false,
     "tags": false,
     "properties": true,
     "links": true,

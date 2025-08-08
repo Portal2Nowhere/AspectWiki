@@ -1,2 +1,12 @@
+DEFINITIONS
+noun
+
+verb
+
+IDIOMS
+
+INTERNAL LINKS
+
+EXTERNAL LINKS
 
 #heart
