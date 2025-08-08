@@ -235,7 +235,9 @@
           "y": -475.45332973041764
         }
       },
-      "hiddenLegendRows": [],
+      "hiddenLegendRows": [
+        "link"
+      ],
       "collapsedLegendRows": [],
       "engineOptions": {
         "colorGroups": [],
@@ -249,15 +251,21 @@
         "showArrow": false,
         "textFadeMultiplier": 0,
         "centerStrength": 0.518713248970312,
-        "linkDistance": 250,
+        "linkDistance": 50,
         "linkStrength": 1,
         "repelStrength": 10
       }
     }
   ],
+<<<<<<< HEAD
+  "startingStateID": "979d5e06-eab1-4a13-bfd2-b8a7b01eac2b",
+  "syncDefaultState": false,
+  "saveConfigsWithState": false,
+=======
   "startingStateID": "default-vault",
   "syncDefaultState": true,
   "saveConfigsWithState": true,
+>>>>>>> origin/main
   "customColorMaps": {
     "aspect colors": {
       "colors": [
