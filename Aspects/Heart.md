@@ -9,9 +9,13 @@ IDIOMS
 [^1]take/ lose heart
 [^2]heart and soul
 
+SYNONYMS
+
+
 INTERNAL LINKS
 [[personality]] noun 1
 [[emotion]] noun 2
+[[]] noun 3
 [[courage]] noun 4 & idiom 1
 [[determination]] noun 4 & idiom 1
 [[passion]] idiom 2
