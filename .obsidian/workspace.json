@@ -11,14 +11,10 @@
             "id": "0b181c1b36bd29c1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/extended-graph/data.json",
-                "bFile": ".obsidian/plugins/extended-graph/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,12 +176,13 @@
   },
   "active": "0b181c1b36bd29c1",
   "lastOpenFiles": [
+    "Stuff/Aspects/Heart.md",
+    "Stuff/Words/emotion.md",
+    "Stuff/Words/passion.md",
     "conflict-files-obsidian-git.md",
     "Stuff/Aspects/Rage.md",
-    "Stuff/Aspects/Heart.md",
     "Stuff/Words/anger.md",
     "Stuff/Words/extremes.md",
-    "Stuff/Words/passion.md",
     "Stuff/Words/rebellion.md",
     "Stuff/Words/violence.md",
     "Stuff/Words/chaos.md",
@@ -193,7 +190,6 @@
     "Stuff/Aspects/Void.md",
     "Stuff/Aspects/Doom.md",
     "Stuff/Words/personality.md",
-    "Stuff/Words/emotion.md",
     "Stuff/Aspects/Hope.md",
     "Stuff/Aspects/Space.md",
     "Stuff/Aspects/Mind.md",
