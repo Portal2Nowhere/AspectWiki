@@ -14,6 +14,7 @@ SYNONYMS
 2. essence
 3. courage
 4. sympathy
+5. core
 
 INTERNAL LINKS
 [[personality]] noun 1
@@ -24,6 +25,7 @@ INTERNAL LINKS
 [[passion]] idiom 2
 [[soul]] idiom 1 & synonym 1 
 [[sympathy]] synonym 4
+[[core]] synonym 5
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
