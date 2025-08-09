@@ -10,18 +10,24 @@ IDIOMS
 [^2]heart and soul
 
 SYNONYMS
-
+1. soul
+2. essence
+3. courage
+4. sympathy
 
 INTERNAL LINKS
 [[personality]] noun 1
 [[emotion]] noun 2
-[[]] noun 3
-[[courage]] noun 4 & idiom 1
+[[essence]] noun 3 & synonym 2
+[[courage]] noun 4 & idiom 1 & synonym 3
 [[determination]] noun 4 & idiom 1
 [[passion]] idiom 2
+[[soul]] idiom 1 & synonym 1 
+[[sympathy]] synonym 4
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
+https://www.merriam-webster.com/thesaurus/heart
 #heart
 
 [^1]: to gather or lose courage or determination
