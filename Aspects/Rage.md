@@ -9,6 +9,7 @@ verb
 
 IDIOMS
 [^1]Rage against the machine
+[^2]All the rage
 
 INTERNAL LINKS
 [[anger]] noun 1 & verb 1
@@ -20,7 +21,10 @@ INTERNAL LINKS
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/rage
+https://english.stackexchange.com/questions/127803/what-is-the-origin-of-the-idiom-all-the-rage
 
 #rage
 
 [^1]: rebellion against the system
+
+[^2]: to be very popular, craze, trend, vehement passion
