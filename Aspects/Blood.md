@@ -15,6 +15,7 @@ IDIOMS
 [^5]bad blood
 [^6]blood feud
 [^7]blood oath, blood pact
+[^8]blood bond
 
 SYNONYMS
 1. family
@@ -23,12 +24,12 @@ SYNONYMS
 4. murder
 
 INTERNAL LINKS
-[[family]] noun 2 & synonym 1
+[[family]] noun 2 & synonym 1,8
 [[ancestry]] noun 5 & synonym 2
 [[soul]] noun 3 & synonym 3
 [[murder]] noun 4 & synonym 4 & idiom 3, 5, 6
 [[anger]] idiom 1, 5
-[[group]] noun 2, 5 & idiom 5, 6, 7
+[[group]] noun 2, 5 & idiom 5, 6, 7,8
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/blood
@@ -51,4 +52,6 @@ https://dictionary.cambridge.org/dictionary/english/blood-feud
 
 [^6]: an argument that existed for a long time between groups, leading to each group killing members of the other group
 
-[^7]: an oath that has been made between two or more people that cant be broken, symbolising bond of mutual trust
+[^7]: an oath that has been made between two or more people that are unbreakable, symbolizing bond of mutual trust
+
+[^8]: a deep unbreakable connection, a bond to consider others family or those of blood
