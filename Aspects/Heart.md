@@ -4,6 +4,7 @@ noun
 2. the place within a person where emotions are considered to come from
 3. the central or most important part
 4. courage, determination
+5. the organ in your chest that sends the blood around your body
 
 IDIOMS
 [^1]take/ lose heart
