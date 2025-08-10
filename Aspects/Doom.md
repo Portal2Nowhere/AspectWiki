@@ -10,8 +10,8 @@ IDIOMS
 [^2]Doom and Gloom
 
 SYNONYMS
-1. Fate
-2. Inevitable
+1. Fated
+2. 
 INTERNAL LINKS
 
 [[Death]] noun 1 & verb 2
