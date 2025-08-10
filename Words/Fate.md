@@ -11,7 +11,8 @@ SYNONYMS
 2. 
 INTERNAL LINKS
 [[Doom]] idiom 1
-[[Inevitability]] idiom 1
+
+
 EXTERNAL LINKS
 
 [^1]: make it inevitable that something unpleasant will happen to someone.
