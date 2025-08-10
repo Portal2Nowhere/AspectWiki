@@ -51,4 +51,4 @@ https://dictionary.cambridge.org/dictionary/english/blood-feud
 
 [^6]: an argument that existed for a long time between groups, leading to each group killing members of the other group
 
-[^7]: an oath that has been made between two or more people that cant be broken, symbolising bond of mutual trust
+[^7]: an oath that has been made between two or more people that cant be broken, symbolizing bond of mutual trust
