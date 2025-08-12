@@ -11,6 +11,8 @@ IDIOMS
 [^1]Rage against the machine
 [^2]All the rage
 
+SYNONYMS
+
 INTERNAL LINKS
 [[anger]] noun 1 & verb 1
 [[extremes]] through noun 1 & idiom 2
