@@ -9,6 +9,11 @@ noun
 IDIOMS
 [^1]take/ lose heart
 [^2]heart and soul
+[^3](one's) heart bleeds
+[^4]a stout heart
+[^5]aching heart
+[^6]half a heart
+[^7]a heart of gold
 
 SYNONYMS
 1. soul
@@ -18,14 +23,14 @@ SYNONYMS
 5. core
 
 INTERNAL LINKS
-[[personality]] noun 1
-[[emotion]] noun 2
+[[personality]] noun 1 & idiom 7
+[[emotion]] noun 2 & idiom 7
 [[essence]] noun 3 & synonym 2
-[[courage]] noun 4 & idiom 1 & synonym 3
-[[determination]] noun 4 & idiom 1
-[[passion]] idiom 2
+[[courage]] noun 4 & idiom 1,4 & synonym 3
+[[determination]] noun 4 & idiom 1,4
+[[passion]] idiom 2,6
 [[soul]] idiom 1 & synonym 1 
-[[sympathy]] synonym 4
+[[sympathy]] idiom 3 & synonym 4
 [[core]] synonym 5
 
 EXTERNAL LINKS
@@ -36,3 +41,13 @@ https://www.merriam-webster.com/thesaurus/heart
 [^1]: to gather or lose courage or determination
 
 [^2]: with your entire being, with all your passion
+
+[^3]: One feels sorrow or sadness for someone who is experiencing hardships
+
+[^4]: Courage, nerves, determination, or resolve, especially in the face of adversity or hardship.
+
+[^5]: A feeling of pain or despair in the absence of someone one loves.
+
+[^6]: Only a little or moderate amount of enthusiasm or interest; an uninspired manner.
+
+[^7]: If someone has a heart of gold, they are kind and generous, and enjoy helping other people. Note: The heart is traditionally regarded as the center of the emotions.
