@@ -31,6 +31,8 @@ INTERNAL LINKS
 [[desire]] verb 1
 [[wish]] synonym 1
 [[goal]] synonym 5
+[[aspiration]] synonym 3
+[[ambition]] synonym 2
 
 
 EXTERNAL LINKS
