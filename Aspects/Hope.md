@@ -28,11 +28,12 @@ SYNONYMS
 INTERNAL LINKS
 [[courage]] noun 1
 [[determination]] noun 1
-[[desire]] verb 1
-[[wish]] synonym 1
+[[desire]] noun 1,2 & verb 1
+[[wish]] noun 1,2 & verb 1 & synonym 1
 [[goal]] synonym 5
-[[aspiration]] synonym 3
-[[ambition]] synonym 2
+[[aspiration]] noun 1,2 & verb 1 & synonym 3
+[[ambition]] noun 1,2 & verb 1 & synonym 2
+[[trust]] noun 1,2 & synonym 6, 7
 
 
 EXTERNAL LINKS
