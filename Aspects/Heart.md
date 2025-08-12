@@ -9,7 +9,7 @@ noun
 IDIOMS
 [^1]take/ lose heart
 [^2]heart and soul
-[^3](one's) heart bleeds
+[^3]\(one's) heart bleeds
 [^4]a stout heart
 [^5]aching heart
 [^6]half a heart
