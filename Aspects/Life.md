@@ -1,4 +1,4 @@
-DEFINITIONS
+	DEFINITIONS
 noun
 1. the period between birth and death, or the experience or state of being alive
 2. a way of living or a particular part of someone's life:
@@ -19,7 +19,7 @@ IDIOMS
 
 INTERNAL LINKS
 [[Time]] noun 1 & idiom 8
-[[existence]] noun 1,2 & idiom 1,3,6
+[[living]] noun 1,2 & idiom 1,3,6
 [[vigor]] noun 3,4 & idiom 5,6
 [[excitement]] noun 3 & idiom 5,6
 [[growth]] noun 4
@@ -35,7 +35,7 @@ https://www.merriam-webster.com/dictionary/life
 
 #life
 
-[^1]: Something unpleasant that must be accepted because it cannot be changed. unpleasantness is a part of existence
+[^1]: Something unpleasant that must be accepted because it cannot be changed. unpleasantness is a part of living
 
 [^2]: Very warm to the touch. Marked or characterized by sincere kindness and affection.
 
