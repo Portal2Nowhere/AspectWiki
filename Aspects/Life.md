@@ -17,11 +17,6 @@ IDIOMS
 [^7]the high life
 [^8]while there's life there's hope
 
-SYNONYMS
-1. vigor
-2. creature
-3. time/ lifespan
-
 INTERNAL LINKS
 [[Time]] noun 1 & idiom 8
 [[existence]] noun 1,2 & idiom 1,3,6
