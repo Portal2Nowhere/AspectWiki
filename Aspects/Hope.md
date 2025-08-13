@@ -27,13 +27,13 @@ SYNONYMS
 
 INTERNAL LINKS
 [[courage]] noun 1
-[[determination]] noun 1
-[[desire]] noun 1,2 & verb 1
-[[wish]] noun 1,2 & verb 1 & synonym 1
+[[determination]] noun 1, idiom 4 & idiom 5
+[[desire]] noun 1,2, verb 1 & idiom 3
+[[wish]] noun 1,2 & verb 1, synonym 1 & idiom 3
 [[goal]] synonym 5
-[[aspiration]] noun 1,2 & verb 1 & synonym 3
-[[ambition]] noun 1,2 & verb 1 & synonym 2
-[[trust]] noun 1,2 & synonym 6, 7
+[[aspiration]] noun 1,2 & verb 1, synonym 3 & idiom 1
+[[ambition]] noun 1,2 & verb 1, synonym 2 & idiom 1
+[[trust]] noun 1,2, synonym 6, 7, idiom 2 & idiom 3
 
 
 EXTERNAL LINKS
@@ -53,3 +53,5 @@ https://idioms.thefreedictionary.com/hope
 [^4]: To remain hopeful and optimistic about the future, even though it may seem bleak or futile.
 
 [^5]: As long as you are alive, you should be hopeful, because it is possible that your situation will improve.
+
+
