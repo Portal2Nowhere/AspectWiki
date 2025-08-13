@@ -52,4 +52,4 @@ https://idioms.thefreedictionary.com/hope
 
 [^4]: To remain hopeful and optimistic about the future, even though it may seem bleak or futile.
 
-[^5]: As long as someone or something has not completely failed or ended, a bad situation still has a chance of getting better.
+[^5]: As long as you are alive, you should be hopeful, because it is possible that your situation will improve.
