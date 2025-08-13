@@ -23,6 +23,11 @@ SYNONYMS
 3. time/ lifespan
 
 INTERNAL LINKS
+[[Time]] noun 1 & idiom 8
+[[existence]] noun 1,2 & idiom 1,3
+[[vigor]] noun 3 & idiom 5,6
+[[excitement]] noun 3 & idiom 5,6
+[[growth]] noun 4
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/life
