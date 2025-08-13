@@ -24,10 +24,14 @@ SYNONYMS
 
 INTERNAL LINKS
 [[Time]] noun 1 & idiom 8
-[[existence]] noun 1,2 & idiom 1,3
-[[vigor]] noun 3 & idiom 5,6
+[[existence]] noun 1,2 & idiom 1,3,6
+[[vigor]] noun 3,4 & idiom 5,6
 [[excitement]] noun 3 & idiom 5,6
 [[growth]] noun 4
+[[kindness]] idiom 2
+[[survival]] idiom 4
+[[fulfillment]] idiom 6,7
+[[wealth]] idiom 7
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/life
