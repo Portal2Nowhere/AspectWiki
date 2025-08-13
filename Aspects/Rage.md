@@ -23,13 +23,13 @@ SYNONYMS
 6. blow up (to be angry)
 
 INTERNAL LINKS
-[[anger]] through noun 1 & verb 1 & idiom 3,5 & synonym 1,6
-[[extremes]] through noun 1 & idiom 2,3,4
-[[chaos]] through noun 1 & verb 1
-[[violence]] through noun 1 & verb 1 & synonym 2
-[[passion]] through noun 2 & idiom 2 & synonym 3,5
-[[rebellion]] through idiom 1
-[[madness]] through idiom 4 & synonym 4
+[[anger]] noun 1 & verb 1 & idiom 3,5 & synonym 1,6
+[[extremes]] noun 1 & idiom 2,3,4
+[[chaos]] noun 1 & verb 1
+[[violence]] noun 1 & verb 1 & synonym 2
+[[passion]] noun 2 & idiom 2 & synonym 3,5
+[[rebellion]] idiom 1
+[[madness]] idiom 4 & synonym 4
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/rage

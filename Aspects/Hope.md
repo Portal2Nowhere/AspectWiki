@@ -26,14 +26,14 @@ SYNONYMS
 7. faith
 
 INTERNAL LINKS
-[[courage]] through noun 1
-[[determination]] through noun 1
-[[desire]] through noun 1,2 & verb 1
-[[wish]] through noun 1,2 & verb 1 & synonym 1
-[[goal]] through synonym 5
-[[aspiration]] through noun 1,2 & verb 1 & synonym 3
-[[ambition]] through noun 1,2 & verb 1 & synonym 2
-[[trust]] through noun 1,2 & synonym 6, 7
+[[courage]] noun 1
+[[determination]] noun 1
+[[desire]] noun 1,2 & verb 1
+[[wish]] noun 1,2 & verb 1 & synonym 1
+[[goal]] synonym 5
+[[aspiration]] noun 1,2 & verb 1 & synonym 3
+[[ambition]] noun 1,2 & verb 1 & synonym 2
+[[trust]] noun 1,2 & synonym 6, 7
 
 
 EXTERNAL LINKS
