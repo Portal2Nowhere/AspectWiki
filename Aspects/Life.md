@@ -1,5 +1,6 @@
 DEFINITIONS
 noun
+1. the period between birth and death, or the experience or state of being alive
 
 verb
 
