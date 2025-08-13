@@ -1,40 +1,44 @@
 DEFINITIONS
 adjective
-1. Invalid
+1. Invalid; null
 2. Completely empty
 3. Without; lacking something
+4. Not occupied or inhabited
+5. (Of a set) containing no elements; empty
 
 noun
-1. A large hole or completely empty space
-2. a feeling of unhappiness because of someone or something that is missing
+1. A large hole or (completely) empty space
+2. A feeling of unhappiness because of someone or something that is missing
+3. Something experienced as a loss or privation
+4. The quality or state of being without something
 
 verb
-1. To declare something as invalid
-2. To drain away
+1. To declare something as invalid; invalidate; nullify
+2. To empty (out)
 
 
 IDIOMS
  1. [^1]fill the void
  2. [^2]null and void
 
-SYNONYMS
-1. null
-2. empty
-3. gap
-4. a vacuum
-5. invalid
+ORIGIN
+First recorded in 1250–1300; (adjective) Middle English voide, from Anglo-French, Old French voide, voit, vuide, vuit ( French vide ), from unattested Vulgar Latin vocīta, vocita feminine of vocītus, vocitus unattested and dissimilated variant of Latin vacīvus, vocīvus, “empty”; vacuum; (verb) Middle English voiden, from Anglo-French voider, Old French, from unattested Vulgar Latin vocitāre, derivative of unattested vocītus, vocitus; (noun) derivative of the adjective
 
 INTERNAL LINKS
-[[null]] adjective 1, verb 1, idiom 2, synonym 1 & synonym 5
-[[empty]] adjective 1, noun 1, verb 2, synonym 2 & synonym 4
-[[lack]] adjective 3, noun 2 & synonym 3
-[[absent]] noun 2 & idiom 1
+[[null]] adjective 1, verb 1, idiom 2
+[[empty]] adjective 2, adjective 5, noun 1, verb 2, origin
+[[lack]] adjective 3, noun 2, noun 3, noun 4, idiom 1
+[[absence]] adjective 4, noun 2, idiom 1
 
+
+DUBIOUS LINKS
 
 
 EXTERNAL LINKS
 https://idioms.thefreedictionary.com/void
 https://dictionary.cambridge.org/dictionary/english/void
+https://www.merriam-webster.com/dictionary/void
+https://www.dictionary.com/browse/void
 #void
 
 [^1]: replacing something that is missing
