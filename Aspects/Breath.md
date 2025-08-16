@@ -2,10 +2,9 @@ DEFINITIONS
 noun
 1. the air inhaled and exhaled in respiration.
 2. respiration, especially as necessary to life.
-3. life; vitality.
-4. a slight suggestion, hint, or whisper.
-5. time to breathe; pause or respite.
-6. exhalation or vapor.
+3. a slight suggestion, hint, or whisper.
+4. time to breathe; pause or respite.
+5. exhalation or vapor.
 
 verb
 
