@@ -9,17 +9,39 @@ noun
 verb
 
 IDIOMS
-save one's breath
-take away one's breath
-catch one's breath
-in the same breath
-below / under one's breath
-with bated breath
+[^1]breath of fresh air
+[^2]save one's breath
+[^3]take away one's breath
+[^4]catch one's breath
+[^5]in the same breath
+[^6]below / under one's breath
+[^7]with bated breath
 
 INTERNAL LINKS
-[[air]]
+[[air]] noun 1,2,5
+[[speech]] noun 3 & idiom 2,5,6
+[[shock]] idiom 7
+[[amazed]] idiom 7
+[[whisper]] noun 3 & idiom 6
+[[pause]] noun 4 & idiom 4
+
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/breath
+https://idioms.thefreedictionary.com/breath
 
 #breath
+
+[^1]: Refreshingly new, different, and pleasing.
+
+[^2]: 	Don’t bother to tell me about it. The image of expending one’s breath to utter what no one wants to hear
+
+[^3]:  to cause someone to be out of breath due to a shock or hard exercise. OR  to overwhelm someone with beauty or grandeur; to surprise or astound someone.
+
+[^4]: To rest so as to be able to continue an activity.
+
+[^5]: stated or said almost at the same time to be compared or seem contradictory
+
+[^6]: Quietly. Often used to describe an aside that one has muttered.
+
+[^7]: Don't expect something to happen. (The idea being that one couldn't hold one's breath long enough for the unlikely thing to happen.)
