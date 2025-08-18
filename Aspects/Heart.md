@@ -14,6 +14,7 @@ IDIOMS
 [^5]aching heart
 [^6]half a heart
 [^7]a heart of gold
+[^8]heart
 
 SYNONYMS
 1. soul
@@ -32,10 +33,12 @@ INTERNAL LINKS
 [[soul]] idiom 1 & synonym 1 
 [[sympathy]] idiom 3 & synonym 4
 [[core]] synonym 5
+[[love]] idiom 8
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
 https://www.merriam-webster.com/thesaurus/heart
+https://idioms.thefreedictionary.com/heart
 #heart
 
 [^1]: to gather or lose courage or determination
@@ -51,3 +54,5 @@ https://www.merriam-webster.com/thesaurus/heart
 [^6]: Only a little or moderate amount of enthusiasm or interest; an uninspired manner.
 
 [^7]: If someone has a heart of gold, they are kind and generous, and enjoy helping other people. Note: The heart is traditionally regarded as the center of the emotions.
+
+[^8]: to love something
