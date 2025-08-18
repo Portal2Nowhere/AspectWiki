@@ -5,6 +5,8 @@ noun
 3. the seat of one's deepest thoughts and emotions
 4. the intentional and unlawful taking of another person's life
 5. the line of ancestors from whom a person is descended
+6.  One's natural or inherited characteristic, talent, ideology, etc.
+7. One's most intense emotions.
 
 IDIOMS
 [^1]make someone's blood boil
@@ -16,7 +18,6 @@ IDIOMS
 [^6]blood feud
 [^7]blood oath, blood pact
 [^8]blood bond
-[^9] blood
 
 SYNONYMS
 1. family
@@ -31,9 +32,9 @@ INTERNAL LINKS
 [[murder]] noun 4 & synonym 4 & idiom 3, 5, 6
 [[anger]] idiom 1, 5
 [[group]] noun 2, 5 & idiom 5, 6, 7,8
-[[inherited]] idiom 9
-[[extremes]] idiom 9
-[[emotion]] idiom 9
+[[inherited]] noun 6
+[[extremes]] idiom 7
+[[emotion]] idiom 7
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/blood
@@ -59,5 +60,3 @@ https://dictionary.cambridge.org/dictionary/english/blood-feud
 [^7]: an oath that has been made between two or more people that are unbreakable, symbolizing bond of mutual trust
 
 [^8]: a deep unbreakable connection, a bond to consider others family or those of blood
-
-[^9]:  One's natural or inherited characteristic, talent, ideology, etc. One's most intense emotions.

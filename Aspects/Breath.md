@@ -5,6 +5,7 @@ noun
 3. a slight suggestion, hint, or whisper.
 4. time to breathe; pause or respite.
 5. exhalation or vapor.
+6. a slight gust of air
 
 verb
 
@@ -18,7 +19,7 @@ IDIOMS
 [^7]with bated breath
 
 INTERNAL LINKS
-[[air]] noun 1,2,5
+[[air]] noun 1,2,5,6
 [[speech]] noun 3 & idiom 2,5,6
 [[shock]] idiom 7
 [[amazed]] idiom 7

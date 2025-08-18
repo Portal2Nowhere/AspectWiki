@@ -5,6 +5,7 @@ noun
 3. the central or most important part
 4. courage, determination
 5. the organ in your chest that sends the blood around your body
+6. to love something
 
 IDIOMS
 [^1]take/ lose heart
@@ -14,7 +15,6 @@ IDIOMS
 [^5]aching heart
 [^6]half a heart
 [^7]a heart of gold
-[^8]heart
 
 SYNONYMS
 1. soul
@@ -33,7 +33,7 @@ INTERNAL LINKS
 [[soul]] idiom 1 & synonym 1 
 [[sympathy]] idiom 3 & synonym 4
 [[core]] synonym 5
-[[love]] idiom 8
+[[love]] noun 6
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
@@ -54,5 +54,3 @@ https://idioms.thefreedictionary.com/heart
 [^6]: Only a little or moderate amount of enthusiasm or interest; an uninspired manner.
 
 [^7]: If someone has a heart of gold, they are kind and generous, and enjoy helping other people. Note: The heart is traditionally regarded as the center of the emotions.
-
-[^8]: to love something

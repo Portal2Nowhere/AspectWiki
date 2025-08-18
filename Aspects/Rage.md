@@ -7,6 +7,7 @@ noun
 5. the object of widespread enthusiasm, as for being popular or fashionable.
 6. insanity
 7. derived from the latin word for rabies, madness, rave
+8. to party, to celebrate
 
 verb
 1. feel or express extreme or violent uncontrollable anger.
@@ -20,7 +21,6 @@ IDIOMS
 [^3]rage through \(something)
 [^4]blinded by rage
 [^5]fly into a rage
-[^6]rage
 
 INTERNAL LINKS
 [[anger]] noun 1 & verb 1 & idiom 3,5
@@ -30,7 +30,7 @@ INTERNAL LINKS
 [[passion]] noun 3,4 & idiom 2
 [[rebellion]] idiom 1
 [[madness]] noun1,8 & idiom 4
-[[celebrate]] idiom 6
+[[celebrate]] noun 8
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/rage
@@ -48,5 +48,3 @@ https://www.dictionary.com/browse/rage
 [^4]: Having one's ability to think rationally or logically impaired by something, especially an intense emotion.
 
 [^5]: To become uncontrollably angry; to lose control of one's temper.
-
-[^6]: to party, to celebrate
