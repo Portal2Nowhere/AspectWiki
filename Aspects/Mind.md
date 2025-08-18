@@ -36,6 +36,7 @@ INTERNAL LINKS
 [[plan]] noun 7 & idiom 1,7
 [[opinion]] noun 6 & idiom 1,2,5,7
 [[intention]] noun 7,9,10 & idiom 7
+[[choice]] noun 7,10 & idiom 1
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/mind
