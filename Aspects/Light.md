@@ -14,8 +14,7 @@ noun
 12. the eyesight
 
 adjective
-1. pale, whitish, or not deep or dark in color.
-2. having light or illumination; bright; well-lighted.
+1. having light or illumination; bright; well-lighted.
 
 verb
 1. to cause (the face, surroundings, etc.) to brighten, especially with joy, animation, or the like (such as in "lighten up" ).
@@ -32,14 +31,13 @@ IDIOMS
 [^8]beacon of light
 
 INTERNAL LINKS
-[[illumination]] noun 1,2,3,9 & adjective 2 & verb 2 & idiom  3,5
+[[illumination]] noun 1,2,3,9 & adjective 1 & verb 2 & idiom  3,5
 [[ignite]] noun 4
 [[viewpoint]] noun 5 & idiom 4
 [[notable]] noun 6,7,8
 [[enlightenment]] noun 9
 [[insight]] noun 10,11 & idiom 1
 [[sight]] noun 12
-[[white]] adjective 1
 [[cheer]] verb 1
 [[favorable]] idiom 2,7
 [[talent]] idiom 3
