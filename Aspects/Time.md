@@ -30,13 +30,14 @@ IDIOMS
 [^8]how time flies
 
 INTERNAL LINKS
-[[repeat]] noun 9,10 & idiom 2
-[[moment]] noun 1,4,7
+[[repeat]] noun10 & idiom 2
+[[moment]] noun 1,4,7 & idiom 7,8
 [[duration]] noun 2,3,4,6 & noun 1,2
 [[event]] noun 5,6,7
-[[speed]] noun 5,8,9 & verb 1 & idiom 1
-[[end]] idiom 1
-
+[[speed]] noun 5,8,9 & verb 1 & idiom 1,3,8
+CONSIDER BETTER WORD [[productivity]] idiom 1,6
+[[tempo]] noun 9 & idiom 4
+CONSIDER BETTER WORD [[end]] idiom 5
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/time
