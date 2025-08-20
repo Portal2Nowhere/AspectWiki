@@ -10,27 +10,30 @@ noun
 
 verb
 1. to set some distance apart.
-2. 
+2. of, relating to, or concerned with outer space or deep space.
 
 IDIOMS
-[^1]space out
-[^2]be lost in space
-[^3]living space
-[^4]free space
-
+[^1]be lost in space/ space out
+[^2]living space
+[^3]free space
 
 INTERNAL LINKS
+[[area]] noun 1.2 & idiom [^2][^3]
+[[distance]] noun 2,3,5 & verb 1
+[[art]] noun 4
+[[interval]] noun 6
+[[outer space]] verb 2
+[[allow]] noun 7
+[[existence]] idiom [^1]
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/space
 https://idioms.thefreedictionary.com/space
 #space
 
-[^1]: To be or become distracted, preoccupied, or unfocused from the present moment or the task at hand.
+[^1]: be lost in space/ space out: To be completely confused about, unaware of, or out of touch with reality.
 
-[^2]: To be completely confused about, unaware of, or out of touch with reality.
+[^2]: living space: the room or area where one lives
 
-[^3]: he room or area where one lives
-
-[^4]: In physics, an area of space that has no gravitational or electromagnetic fields.
+[^3]: free space: In physics, an area of space that has no gravitational or electromagnetic fields.
 
