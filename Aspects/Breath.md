@@ -19,13 +19,14 @@ IDIOMS
 [^7]with bated breath
 
 INTERNAL LINKS
-[[air]] noun 1,2,5, 6
+[[air]] noun 1,2,5,6
 [[speech]] noun 3 & idiom 2,5,6
 [[shock]] idiom 7
-[[amazed]] idiom 7
+[[suprise]] idiom [^3]
 [[whisper]] noun 3 & idiom 6
-[[pause]] noun 4 & idiom 4
-
+[[respite]] noun 4 & idiom 4
+[[refreshing]] idiom [^1]
+[[wind]] noun 6
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/breath
