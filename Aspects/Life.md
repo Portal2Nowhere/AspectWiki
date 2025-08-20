@@ -1,4 +1,4 @@
-	DEFINITIONS
+DEFINITIONS
 noun
 1. the period between birth and death, or the experience or state of being alive
 2. a way of living or a particular part of someone's life:
