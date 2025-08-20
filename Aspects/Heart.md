@@ -5,6 +5,7 @@ noun
 3. the central or most important part
 4. courage, determination
 5. the organ in your chest that sends the blood around your body
+6. to love something
 
 IDIOMS
 [^1]take/ lose heart
@@ -32,10 +33,12 @@ INTERNAL LINKS
 [[soul]] idiom 1 & synonym 1 
 [[sympathy]] idiom 3 & synonym 4
 [[core]] synonym 5
+[[love]] noun 6
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
 https://www.merriam-webster.com/thesaurus/heart
+https://idioms.thefreedictionary.com/heart
 #heart
 
 [^1]: to gather or lose courage or determination

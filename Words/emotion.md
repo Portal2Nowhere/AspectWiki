@@ -1,2 +1,2 @@
 [[anger]]
-#heart 
+#heart  #blood 

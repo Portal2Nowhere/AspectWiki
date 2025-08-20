@@ -5,6 +5,8 @@ noun
 3. the seat of one's deepest thoughts and emotions
 4. the intentional and unlawful taking of another person's life
 5. the line of ancestors from whom a person is descended
+6.  One's natural or inherited characteristic, talent, ideology, etc.
+7. One's most intense emotions.
 
 IDIOMS
 [^1]make someone's blood boil
@@ -30,6 +32,9 @@ INTERNAL LINKS
 [[murder]] noun 4 & synonym 4 & idiom 3, 5, 6
 [[anger]] idiom 1, 5
 [[group]] noun 2, 5 & idiom 5, 6, 7,8
+[[inherited]] noun 6
+[[extremes]] idiom 7
+[[emotion]] idiom 7
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/blood
