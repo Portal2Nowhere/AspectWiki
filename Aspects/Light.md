@@ -31,18 +31,18 @@ IDIOMS
 [^8]beacon of light
 
 INTERNAL LINKS
-[[illumination]] noun 1,2,3,9 & adjective 1 & verb 2 & idiom  3,5
+[[illumination]] noun 1,2,3,9 & adjective 1 & verb 2 & idiom  [^3][^5]
 [[ignite]] noun 4
-[[viewpoint]] noun 5 & idiom 4
+[[viewpoint]] noun 5 & idiom [^4]
 [[notable]] noun 6,7,8
 [[enlightenment]] noun 9
-[[insight]] noun 10,11 & idiom 1
+[[insight]] noun 10,11 & idiom [^1]
 [[sight]] noun 12
 [[cheer]] verb 1
-[[favorable]] idiom 2,7
-[[talent]] idiom 3
-[[success]] idiom 3,6,8
-[[hope]] idiom 8
+[[favorable]] idiom [^2][^7]
+[[talent]] idiom [^3]
+[[success]] idiom [^3][^6][^8]
+[[hope]] idiom [^8]
 
 EXTERNAL LINKS
 https://idioms.thefreedictionary.com/light
