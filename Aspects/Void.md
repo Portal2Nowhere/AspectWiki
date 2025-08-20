@@ -5,6 +5,7 @@ adjective
 3. Without; lacking something
 4. Not occupied or inhabited
 5. (Of a set) containing no elements; empty
+6. useless; ineffectual
 
 noun
 1. A large hole or (completely) empty space
@@ -29,7 +30,7 @@ INTERNAL LINKS
 [[empty]] adjective 2, adjective 5, noun 1, verb 2, origin
 [[lack]] adjective 3, noun 2, noun 3, noun 4, idiom 1
 [[absence]] adjective 4, noun 2, idiom 1
-
+[[Futility]] adjective 6
 
 DUBIOUS LINKS
 
