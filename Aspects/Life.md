@@ -7,6 +7,8 @@ noun
 
 verb
 
+
+
 IDIOMS
 [^1]a fact of life
 [^2]\(as) warm as life

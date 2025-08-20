@@ -33,7 +33,7 @@ IDIOMS
 INTERNAL LINKS
 [[illumination]] noun 1,2,3,9 & adjective 1 & verb 2 & idiom  [^3][^5]
 [[ignite]] noun 4
-[[viewpoint]] noun 5 & idiom [^4]
+[[viewpoint]] noun 5 & idiom [^2][^4]
 [[notable]] noun 6,7,8
 [[enlightenment]] noun 9
 [[insight]] noun 10,11 & idiom [^1]
@@ -51,7 +51,7 @@ https://www.dictionary.com/browse/light
 
 [^1]: A sudden ingenious or inspired idea or insight.
 
-[^2]: under favorable (or unfavorable) circumstances.
+[^2]: Depicted or shown in a particular way, or from a particular perspective (i.e., good, positive, favorable, bad, negative, etc.).
 
 [^3]: to conceal or suppress one's talents or successes.
 
@@ -63,4 +63,4 @@ https://www.dictionary.com/browse/light
 
 [^7]: The most beloved person in one's life.
 
-[^8]: A source of hope, encouragement, or inspiration, especially in the face of adversity.
+[^8]: beacon of light: A source of hope, encouragement, or inspiration, especially in the face of adversity.
