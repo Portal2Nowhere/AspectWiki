@@ -20,11 +20,11 @@ IDIOMS
 
 INTERNAL LINKS
 [[air]] noun 1,2,5,6
-[[speech]] noun 3 & idiom 2,5,6
-[[shock]] idiom 7
-[[suprise]] idiom [^3]
-[[whisper]] noun 3 & idiom 6
-[[respite]] noun 4 & idiom 4
+[[speech]] noun 3 & idiom [^2][^5][^6]
+[[shock]] idiom [^7]
+[[surprise]] idiom [^3]
+[[whisper]] noun 3 & idiom [^6]
+[[respite]] noun 4 & idiom [^4]
 [[refreshing]] idiom [^1]
 [[wind]] noun 6
 
@@ -34,16 +34,16 @@ https://idioms.thefreedictionary.com/breath
 
 #breath
 
-[^1]: Refreshingly new, different, and pleasing.
+[^1]: breath of fresh air: Refreshingly new, different, and pleasing.
 
-[^2]: 	Don’t bother to tell me about it. The image of expending one’s breath to utter what no one wants to hear
+[^2]: save one's breath: Don’t bother to tell me about it. The image of expending one’s breath to utter what no one wants to hear
 
-[^3]:  to cause someone to be out of breath due to a shock or hard exercise. OR  to overwhelm someone with beauty or grandeur; to surprise or astound someone.
+[^3]: take away one's breath: to cause someone to be out of breath due to a shock or hard exercise. OR  to overwhelm someone with beauty or grandeur; to surprise or astound someone.
 
-[^4]: To rest so as to be able to continue an activity.
+[^4]: catch one's breath: To rest so as to be able to continue an activity.
 
-[^5]: stated or said almost at the same time to be compared or seem contradictory
+[^5]: in the same breath: stated or said almost at the same time to be compared or seem contradictory
 
-[^6]: Quietly. Often used to describe an aside that one has muttered.
+[^6]: below / under one's breath: Quietly. Often used to describe an aside that one has muttered.
 
-[^7]: Don't expect something to happen. (The idea being that one couldn't hold one's breath long enough for the unlikely thing to happen.)
+[^7]: with bated breath: Don't expect something to happen. (The idea being that one couldn't hold one's breath long enough for the unlikely thing to happen.)
