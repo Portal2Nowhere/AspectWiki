@@ -8,6 +8,8 @@ noun
 6.  One's natural or inherited characteristic, talent, ideology, etc.
 7. One's most intense emotions.
 
+other word forms
+
 IDIOMS
 [^1]make someone's blood boil
 [^1]someone's blood is up

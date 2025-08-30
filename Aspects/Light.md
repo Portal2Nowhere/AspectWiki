@@ -20,6 +20,8 @@ verb
 1. to cause (the face, surroundings, etc.) to brighten, especially with joy, animation, or the like (such as in "lighten up" ).
 2. to become illuminated when switched on.
 
+other word forms
+
 IDIOMS
 [^1]light bulb
 [^2]in a good / bad light

@@ -12,6 +12,8 @@ verb
 1. to set some distance apart.
 2. of, relating to, or concerned with outer space or deep space.
 
+other word forms
+
 IDIOMS
 [^1]be lost in space/ space out
 [^2]living space

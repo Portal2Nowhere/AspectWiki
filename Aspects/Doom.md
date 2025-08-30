@@ -10,6 +10,8 @@ verb
 1. to make something bad certain to happen
 2.  to die or to fail
 
+other word forms
+
 IDIOMS
 [^1]Doom and Gloom
 [^2]day of doom

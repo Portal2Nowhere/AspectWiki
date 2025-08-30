@@ -18,6 +18,8 @@ verb
 1. to measure or record the speed, duration, or rate of.
 2. to fix the duration of.
 
+other word forms
+
 IDIOMS
 
 [^1]time is money

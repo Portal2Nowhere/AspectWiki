@@ -4,9 +4,10 @@ noun
 2. something good that you want to happen in the future, or a confident feeling about what will happen in the future
 3. the feeling that something desired can be had or will happen
 
-
 verb
 1.  to want something to happen or to be true, and usually have a good reason to think that it might
+
+other word forms
 
 IDIOMS
 [^1]hope against hope
@@ -14,7 +15,6 @@ IDIOMS
 [^3]hope over experience
 [^4]keep hope alive
 [^5]where there's life, there's hope
-
 
 SYNONYMS
 1. wish

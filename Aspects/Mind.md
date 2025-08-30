@@ -15,6 +15,8 @@ verb
 1. to pay attention.
 2. to be careful or wary.
 
+other word forms
+
 IDIOMS
 [^1]change one's mind
 [^2]a meeting of minds

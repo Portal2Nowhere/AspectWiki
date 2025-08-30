@@ -7,6 +7,8 @@ noun
 5. exhalation or vapor.
 6. a slight gust of air
 
+other word forms
+
 IDIOMS
 [^1]breath of fresh air
 [^2]save one's breath

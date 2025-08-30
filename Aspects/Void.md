@@ -17,6 +17,7 @@ verb
 1. To declare something as invalid; invalidate; nullify
 2. To empty (out)
 
+other word forms
 
 IDIOMS
  1. [^1]fill the void

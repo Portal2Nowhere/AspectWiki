@@ -15,6 +15,8 @@ verb
 3. to act or speak with fury; show or feel violent anger; fulminate.
 4. to proceed, continue, or prevail with great violence.
 
+other word forms
+
 IDIOMS
 [^1]Rage against the machine
 [^2]All the rage

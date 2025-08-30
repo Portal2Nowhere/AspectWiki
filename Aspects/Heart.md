@@ -7,6 +7,8 @@ noun
 5. the organ in your chest that sends the blood around your body
 6. to love something
 
+other word forms
+
 IDIOMS
 [^1]take/ lose heart
 [^2]heart and soul
