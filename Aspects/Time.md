@@ -30,16 +30,20 @@ IDIOMS
 [^6]life is short(, and time is swift)
 [^7]in the nick of time
 [^8]how time flies
+[^9]a stitch in time (saves nine)
+[^10]the ravages of time
 
 INTERNAL LINKS
-[[repeat]] noun10 & idiom 2
-[[moment]] noun 1,4,7 & idiom 7,8
-[[duration]] noun 2,3,4,6 & noun 1,2
+[[repeat]] noun10 & idiom [^2]
+[[moment]] noun 1,4,7 & idiom [^7][^8]
+[[duration]] noun 2,3,4,6 & verb 1,2
 [[event]] noun 5,6,7
-[[speed]] noun 5,8,9 & verb 1 & idiom 1,3,8
-CONSIDER BETTER WORD [[productivity]] idiom 1,6
-[[tempo]] noun 9 & idiom 4
-CONSIDER BETTER WORD [[end]] idiom 5
+[[speed]] noun 5,8,9 & verb 1 & idiom [^1][^3][^8]
+CONSIDER BETTER WORD [[productivity]] idiom [^1][^6]
+[[tempo]] noun 9 & idiom [^4]
+CONSIDER BETTER WORD [[end]] idiom [^5]
+[[destruction]] idiom [^10]
+[[decay]] idiom [^10]
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/time
@@ -63,3 +67,7 @@ https://idioms.thefreedictionary.com/time
 [^7]: At the last possible moment before a deadline or before something begins or ends; just in time.
 
 [^8]: Time passes quickly.
+
+[^9]: said to mean that it is better to act or deal with problems immediately, because if you wait and deal with them later, things will get worse and the problems will take longer to deal with. to solve your problems earlier saves you from more problems
+
+[^10]: The destruction and deterioration that someone or something experiences over time.
