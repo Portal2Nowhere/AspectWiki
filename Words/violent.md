@@ -8,17 +8,17 @@ noun
 verb
 
 other word forms
+1. violence
 
 IDIOMS
 
 INTERNAL LINKS
-[[destruction]]
-[[extremes]]
-[[murder]]
-[[death]]
+[[destruction]] noun 1,2,3,4
+[[extremes]] noun 3
+[[murder]] noun 4
+[[death]] noun 4
 
 EXTERNAL LINKS
 https://www.thefreedictionary.com/violent
-https://dictionary.cambridge.org/dictionary/english/violent
 https://www.dictionary.com/browse/violent
 #rage 
