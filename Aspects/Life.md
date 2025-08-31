@@ -8,6 +8,9 @@ noun
 verb
 
 other word forms
+1. living
+2. lively
+3. alive
 
 IDIOMS
 [^1]a fact of life

@@ -68,6 +68,6 @@ https://idioms.thefreedictionary.com/time
 
 [^8]: Time passes quickly.
 
-[^9]: said to mean that it is better to act or deal with problems immediately, because if you wait and deal with them later, things will get worse and the problems will take longer to deal with. to solve your problems earlier saves you from more problems
+[^9]: said to mean that it is better to act or deal with problems immediately, because if you wait and deal with them later, things will get worse and the problems will take longer to deal with. to solve your problems earlier saves you from 9 more problems
 
 [^10]: The destruction and deterioration that someone or something experiences over time.

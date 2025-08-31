@@ -9,6 +9,7 @@ noun
 7. One's most intense emotions.
 
 other word forms
+1. bleed
 
 IDIOMS
 [^1]make someone's blood boil
@@ -38,6 +39,7 @@ INTERNAL LINKS
 [[extremes]] idiom 7
 [[emotion]] idiom 7
 [[bond]] idiom 7
+[[wound]] other word forms 1
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/blood

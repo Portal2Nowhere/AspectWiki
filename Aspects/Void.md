@@ -18,6 +18,8 @@ verb
 2. To empty (out)
 
 other word forms
+1. avoid
+2. devoid
 
 IDIOMS
  1. [^1]fill the void
@@ -27,9 +29,9 @@ ORIGIN
 First recorded in 1250–1300; (adjective) Middle English voide, from Anglo-French, Old French voide, voit, vuide, vuit ( French vide ), from unattested Vulgar Latin vocīta, vocita feminine of vocītus, vocitus unattested and dissimilated variant of Latin vacīvus, vocīvus, “empty”; vacuum; (verb) Middle English voiden, from Anglo-French voider, Old French, from unattested Vulgar Latin vocitāre, derivative of unattested vocītus, vocitus; (noun) derivative of the adjective
 
 INTERNAL LINKS
-[[null]] adjective 1, verb 1, idiom 2
+[[null]] adjective 1, verb 1, word form 1, idiom 2
 [[empty]] adjective 2, adjective 5, noun 1, verb 2, origin
-[[lack]] adjective 3, noun 2, noun 3, noun 4, idiom 1
+[[lack]] adjective 3, noun 2, 3, 4, word form 2, idiom 1
 [[absence]] adjective 4, noun 2, idiom 1
 [[Futility]] adjective 6
 
