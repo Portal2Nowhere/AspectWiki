@@ -21,6 +21,9 @@ verb
 2. to become illuminated when switched on.
 
 other word forms
+1. lighting
+2. lit
+3. alight
 
 IDIOMS
 [^1]light bulb

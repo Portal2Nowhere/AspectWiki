@@ -8,6 +8,8 @@ noun
 6. a slight gust of air
 
 other word forms
+1. breathing
+2. breathe
 
 IDIOMS
 [^1]breath of fresh air
