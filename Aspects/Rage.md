@@ -28,7 +28,7 @@ INTERNAL LINKS
 [[anger]] noun 1 & verb 1 & idiom 3,5
 [[extremes]] idiom 2,3,4
 [[chaos]] noun 2 & verb 1
-[[violence]] noun 2,3 & verb 1,4
+[[violent]] noun 2,3 & verb 1,4
 [[passion]] noun 3,4 & idiom 2
 [[rebellion]] idiom 1
 [[madness]] noun1,8 & idiom 4

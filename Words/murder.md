@@ -11,7 +11,7 @@ SYNONYMS
 
 INTERNAL LINKS
 [[death]]
-[[violence]]
+[[violent]]
 
 EXTERNAL LINKS
 #blood 
