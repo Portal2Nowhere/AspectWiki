@@ -37,6 +37,7 @@ INTERNAL LINKS
 [[inherited]] noun 6
 [[extremes]] idiom 7
 [[emotion]] idiom 7
+[[bond]] idiom 7
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/blood

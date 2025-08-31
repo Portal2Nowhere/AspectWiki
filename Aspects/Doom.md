@@ -18,7 +18,7 @@ IDIOMS
 [^3]prophet of doom
 
 INTERNAL LINKS
-[[Death]] noun 1,2 & verb 2
+[[death]] noun 1,2 & verb 2
 [[Destruction]] noun 1
 [[Plight]] noun 1,4 & idiom 1,3
 [[Calamity]] noun 1,4 & idiom 2
