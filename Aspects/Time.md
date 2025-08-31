@@ -42,6 +42,8 @@ INTERNAL LINKS
 CONSIDER BETTER WORD [[productivity]] idiom [^1][^6]
 [[tempo]] noun 9 & idiom [^4]
 CONSIDER BETTER WORD [[end]] idiom [^5]
+[[decisive]] idiom[^9]
+[[prevent]] idiom [^9]
 [[destruction]] idiom [^10]
 [[decay]] idiom [^10]
 
@@ -49,6 +51,7 @@ EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/time
 https://www.dictionary.com/browse/time
 https://idioms.thefreedictionary.com/time
+https://idioms.thefreedictionary.com/stitch+in+time+saves+nine
 
 #time
 
@@ -68,6 +71,6 @@ https://idioms.thefreedictionary.com/time
 
 [^8]: Time passes quickly.
 
-[^9]: said to mean that it is better to act or deal with problems immediately, because if you wait and deal with them later, things will get worse and the problems will take longer to deal with. to solve your problems earlier saves you from 9 more problems
+[^9]: A prompt, decisive action taken now will prevent problems later.
 
 [^10]: The destruction and deterioration that someone or something experiences over time.

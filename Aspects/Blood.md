@@ -10,10 +10,11 @@ noun
 
 other word forms
 1. bleed
+	1. (of a plant) to exude sap, resin, etc., from a wound.
+2. bloody
 
 IDIOMS
-[^1]make someone's blood boil
-[^1]someone's blood is up
+[^1]make someone's blood boil, someone's blood is up
 [^2]blood and guts
 [^3]bloodbath
 [^4]blood money
@@ -46,6 +47,7 @@ https://dictionary.cambridge.org/dictionary/english/blood
 https://www.merriam-webster.com/thesaurus/blood
 https://idioms.thefreedictionary.com/blood
 https://dictionary.cambridge.org/dictionary/english/blood-feud
+https://www.dictionary.com/browse/bleed
 
 #blood
 
