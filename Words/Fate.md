@@ -11,7 +11,7 @@ SYNONYMS
 2. 
 INTERNAL LINKS
 [[Doom]] idiom 1
-
+[[fortune]]
 
 EXTERNAL LINKS
 

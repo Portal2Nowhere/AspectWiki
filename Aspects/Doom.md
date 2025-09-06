@@ -25,7 +25,7 @@ INTERNAL LINKS
 [[Failure]] verb 2
 [[Pessimism]] idiom 1
 [[Futility]] idiom 1 & noun 1
-[[Fate]] verb 1 & noun 1
+[[fate]] verb 1 & noun 1
 [[Judgement]] noun 3,5
 
 EXTERNAL LINKS
