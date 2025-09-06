@@ -11,13 +11,11 @@ other word forms
 IDIOMS
 [^1]fail of success
 
-
-
 SYNONYMS
 
 INTERNAL LINKS
-[[fortune]]
-
+[[fortune]] noun 1,2
+[[outcome]] noun 3 & idiom [^1]
 
 EXTERNAL LINKS
 
