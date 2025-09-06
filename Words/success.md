@@ -18,6 +18,8 @@ INTERNAL LINKS
 [[outcome]] noun 3 & idiom [^1]
 
 EXTERNAL LINKS
+https://www.dictionary.com/browse/success
+https://idioms.thefreedictionary.com/success
 
 #light
 
