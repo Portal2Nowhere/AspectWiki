@@ -20,6 +20,7 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://www.dictionary.com/browse/success
 https://idioms.thefreedictionary.com/success
+https://www.thesaurus.com/browse/success
 
 #light
 
