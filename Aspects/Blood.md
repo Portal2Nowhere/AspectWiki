@@ -22,6 +22,7 @@ IDIOMS
 [^6]blood feud
 [^7]blood oath, blood pact
 [^8]blood bond
+[^9]blood sweat and tears
 
 SYNONYMS
 1. family
@@ -67,3 +68,5 @@ https://www.dictionary.com/browse/bleed
 [^7]: an oath that has been made between two or more people that are unbreakable, symbolizing bond of mutual trust
 
 [^8]: a deep unbreakable connection, a bond to consider others family or those of blood
+
+[^9]: 
