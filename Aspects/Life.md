@@ -37,7 +37,8 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/life
 https://www.merriam-webster.com/dictionary/life
-
+https://www.dictionary.com/browse/life
+https://idioms.thefreedictionary.com/life
 
 #life
 
