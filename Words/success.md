@@ -11,15 +11,16 @@ other word forms
 IDIOMS
 [^1]fail of success
 
-
-
 SYNONYMS
 
 INTERNAL LINKS
-[[fortune]]
-
+[[fortune]] noun 1,2
+[[outcome]] noun 3 & idiom [^1]
 
 EXTERNAL LINKS
+https://www.dictionary.com/browse/success
+https://idioms.thefreedictionary.com/success
+https://www.thesaurus.com/browse/success
 
 #light
 
