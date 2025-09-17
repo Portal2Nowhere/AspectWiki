@@ -19,3 +19,10 @@ mind
 
 idiom: blood sweat and tears
 
+negative space, void and space
+
+art and creativty
+
+tempo and music
+
+music and art
