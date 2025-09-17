@@ -38,8 +38,8 @@ INTERNAL LINKS
 [[anger]] idiom 1, 5
 [[group]] noun 2, 5 & idiom 5, 6, 7,8
 [[inherited]] noun 6
-[[extremes]] idiom 7
-[[emotion]] idiom 7
+[[extremes]] noun 7
+[[emotion]] noun 7
 [[bond]] idiom 7
 [[wound]] other word forms 1
 
