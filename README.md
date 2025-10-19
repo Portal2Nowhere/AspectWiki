@@ -11,4 +11,20 @@ the words can be used synonymously within at least 1 context, in which the meani
 
 
 
+# ideas to be added
+connection: life rage and chaos
 
+mind
+- Path, Doorway, Causality, Calculating, Multiples
+
+idiom: blood sweat and tears
+
+negative space, void and space
+
+art and creativty
+
+tempo and music
+
+music and art
+
+resignation (time doom void)

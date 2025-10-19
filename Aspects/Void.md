@@ -20,6 +20,7 @@ verb
 other word forms
 1. avoid
 2. devoid
+3. cosmic void (dark space)
 
 IDIOMS
  1. [^1]fill the void
@@ -34,6 +35,7 @@ INTERNAL LINKS
 [[lack]] adjective 3, noun 2, 3, 4, word form 2, idiom 1
 [[absence]] adjective 4, noun 2, idiom 1
 [[Futility]] adjective 6
+[[dark]] word form 3
 
 DUBIOUS LINKS
 
@@ -43,6 +45,7 @@ https://idioms.thefreedictionary.com/void
 https://dictionary.cambridge.org/dictionary/english/void
 https://www.merriam-webster.com/dictionary/void
 https://www.dictionary.com/browse/void
+https://en.wikipedia.org/wiki/Void_(astronomy)
 #void
 
 [^1]: replacing something that is missing

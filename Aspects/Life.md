@@ -4,6 +4,7 @@ noun
 2. a way of living or a particular part of someone's life:
 3. the quality of having a lot of energy, interest, or excitement:
 4. an organismic state characterized by capacity for metabolism, growth, reaction to stimuli, and reproduction
+5. nature or any of the forms of nature as the model or subject of a work of art
 
 verb
 
@@ -31,11 +32,13 @@ INTERNAL LINKS
 [[survival]] idiom 4
 [[fulfillment]] idiom 6,7
 [[wealth]] idiom 7
+[[nature]] noun 5
 
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/life
 https://www.merriam-webster.com/dictionary/life
-
+https://www.dictionary.com/browse/life
+https://idioms.thefreedictionary.com/life
 
 #life
 
