@@ -7,7 +7,7 @@ noun
 5. the object of widespread enthusiasm, as for being popular or fashionable.
 6. insanity
 7. derived from the latin word for rabies, madness, rave
-8. to party, to celebrate
+8. to party, to celebrate, a rave, a rager
 
 verb
 1. feel or express extreme or violent uncontrollable anger.
