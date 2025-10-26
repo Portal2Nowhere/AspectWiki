@@ -28,3 +28,5 @@ tempo and music
 music and art
 
 resignation (time doom void)
+
+fantasize (hope)
