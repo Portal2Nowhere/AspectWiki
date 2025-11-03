@@ -1,11 +1,13 @@
 DEFINITIONS
 noun
 1. courage, determination
-2. something good that you want to happen in the future, or a confident feeling about what will happen in the future
+2. the feeling that what is wanted can be had or that events will turn out for the best. longing, expectancy, aspiration
 3. the feeling that something desired can be had or will happen
+4. a person or thing in which expectations are centered.
 
 verb
 1.  to want something to happen or to be true, and usually have a good reason to think that it might
+2.  to place trust; rely
 
 other word forms
 
@@ -15,6 +17,7 @@ IDIOMS
 [^3]hope over experience
 [^4]keep hope alive
 [^5]where there's life, there's hope
+[^6]great white hope
 
 SYNONYMS
 1. wish
@@ -39,6 +42,7 @@ INTERNAL LINKS
 EXTERNAL LINKS
 https://dictionary.cambridge.org/dictionary/english/heart
 https://dictionary.cambridge.org/dictionary/english/hope
+https://www.dictionary.com/browse/hope
 https://www.merriam-webster.com/thesaurus/hope
 https://idioms.thefreedictionary.com/hope
 
@@ -54,4 +58,4 @@ https://idioms.thefreedictionary.com/hope
 
 [^5]: As long as you are alive, you should be hopeful, because it is possible that your situation will improve.
 
-
+[^6]: Something or someone that is expected to succeed.
