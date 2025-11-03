@@ -28,6 +28,7 @@ IDIOMS
 [^8]play mind games
 [^9]slip mind
 [^10]spring to mind
+make up ones mind ------------------------
 
 INTERNAL LINKS
 [[memory]] noun 5 & idiom 9, 10
