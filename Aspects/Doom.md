@@ -20,10 +20,10 @@ IDIOMS
 INTERNAL LINKS
 [[death]] noun 1,2 & verb 2
 [[destruction]] noun 1
-[[Plight]] noun 1,4 & idiom 1,3
-[[Calamity]] noun 1,4 & idiom 2
+[[Plight]] noun 1,4 & idiom [^1][^3]
+[[Calamity]] noun 1,4 & idiom [^2]
 [[Failure]] verb 2
-[[Pessimism]] idiom 1
+[[Pessimism]] idiom [^1]
 [[Futility]] idiom 1 & noun 1
 [[fate]] verb 1 & noun 1
 [[Judgement]] noun 3,5

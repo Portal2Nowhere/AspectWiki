@@ -34,13 +34,13 @@ INTERNAL LINKS
 [[family]] noun 2 & synonym 1,8
 [[ancestry]] noun 5 & synonym 2
 [[soul]] noun 3 & synonym 3
-[[murder]] noun 4 & synonym 4 & idiom 3, 5, 6
-[[anger]] idiom 1, 5
-[[group]] noun 2, 5 & idiom 5, 6, 7,8
+[[murder]] noun 4 & synonym 4 & idiom [^3][^5][^6]
+[[anger]] idiom [^1][^5]
+[[group]] noun 2, 5 & idiom [^5][^6][^7][^8]
 [[inherited]] noun 6
 [[extremes]] noun 7
 [[emotion]] noun 7
-[[bond]] idiom 7
+[[bond]] idiom [^7]
 [[wound]] other word forms 1
 
 EXTERNAL LINKS
