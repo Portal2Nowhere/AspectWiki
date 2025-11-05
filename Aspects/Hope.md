@@ -30,13 +30,13 @@ SYNONYMS
 
 INTERNAL LINKS
 [[courage]] noun 1
-[[determination]] noun 1, idiom 4 & idiom 5
-[[desire]] noun 1,2, verb 1 & idiom 3
-[[wish]] noun 1,2 & verb 1, synonym 1 & idiom 3
+[[determination]] noun 1, idiom 4 & idiom [^5]
+[[desire]] noun 1,2, verb 1 & idiom [^3]
+[[wish]] noun 1,2 & verb 1, synonym 1 & idiom [^3]
 [[goal]] synonym 5
-[[aspiration]] noun 1,2 & verb 1, synonym 3 & idiom 1
-[[ambition]] noun 1,2 & verb 1, synonym 2 & idiom 1
-[[trust]] noun 1,2, synonym 6, 7, idiom 2 & idiom 3
+[[aspiration]] noun 1,2 & verb 1, synonym 3 & idiom [^1]
+[[ambition]] noun 1,2 & verb 1, synonym 2 & idiom [^1]
+[[trust]] noun 1,2, synonym 6, 7, idiom [^2][^3]
 
 
 EXTERNAL LINKS
