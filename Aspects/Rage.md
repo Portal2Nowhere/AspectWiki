@@ -25,13 +25,14 @@ IDIOMS
 [^5]fly into a rage
 
 INTERNAL LINKS
-[[anger]] noun 1 & verb 1 & idiom 3,5
-[[extremes]] idiom 2,3,4
+[[anger]] noun 1 & verb 1 & idiom [^3][^5]
+[[extremes]] idiom [^2][^3][^4]
 [[chaos]] noun 2 & verb 1
 [[violent]] noun 2,3 & verb 1,4
-[[passion]] noun 3,4 & idiom 2
-[[rebellion]] idiom 1
-[[madness]] noun1,8 & idiom 4
+[[passion]] noun 3,4 & idiom [^2]
+[[rebellion]] idiom [^1]
+[[revolution]] idiom [^1]
+[[madness]] noun1,8 & idiom [^4]
 [[celebrate]] noun 8
 
 EXTERNAL LINKS
