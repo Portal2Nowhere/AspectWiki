@@ -26,14 +26,14 @@ SYNONYMS
 5. core
 
 INTERNAL LINKS
-[[personality]] noun 1 & idiom 7
-[[emotion]] noun 2 & idiom 7
+[[personality]] noun 1 & idiom [^7]
+[[emotion]] noun 2 & idiom [^7]
 [[essence]] noun 3 & synonym 2
-[[courage]] noun 4 & idiom 1,4 & synonym 3
-[[determination]] noun 4 & idiom 1,4
-[[passion]] idiom 2,6
-[[soul]] idiom 1 & synonym 1 
-[[sympathy]] idiom 3 & synonym 4
+[[courage]] noun 4 & idiom [^1][^4] & synonym 3
+[[determination]] noun 4 & idiom [^1][^4]
+[[passion]] idiom [^2][^6]
+[[soul]] idiom [^1] & synonym 1 
+[[sympathy]] idiom [^3] & synonym 4
 [[core]] synonym 5
 [[love]] noun 6
 
