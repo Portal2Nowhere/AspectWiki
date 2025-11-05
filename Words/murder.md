@@ -1,3 +1,6 @@
+other word forms
+- murderer
+
 DEFINITIONS
 noun
 1. the killing of another human being
