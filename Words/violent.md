@@ -1,3 +1,6 @@
+other word forms
+1. violence
+
 DEFINITIONS
 noun
 1. acting with or characterized by uncontrolled, strong, rough force.
@@ -6,9 +9,6 @@ noun
 4. Causing or intending to cause damage, injury, or death, often when involving great force:
 
 verb
-
-other word forms
-1. violence
 
 IDIOMS
 

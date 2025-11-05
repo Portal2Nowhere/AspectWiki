@@ -1,3 +1,8 @@
+other word forms
+1. bleed
+	1. (of a plant) to exude sap, resin, etc., from a wound.
+2. bloody
+
 DEFINITIONS
 noun
 1. the red liquid that is sent around the body by the heart, and carries oxygen and important substances to organs and tissue, and removes waste products
@@ -7,11 +12,6 @@ noun
 5. the line of ancestors from whom a person is descended
 6.  One's natural or inherited characteristic, talent, ideology, etc.
 7. One's most intense emotions.
-
-other word forms
-1. bleed
-	1. (of a plant) to exude sap, resin, etc., from a wound.
-2. bloody
 
 IDIOMS
 [^1]make someone's blood boil, someone's blood is up

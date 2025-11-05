@@ -1,3 +1,8 @@
+other word forms
+1. living
+2. lively
+3. alive
+
 DEFINITIONS
 noun
 1. the period between birth and death, or the experience or state of being alive
@@ -7,11 +12,6 @@ noun
 5. nature or any of the forms of nature as the model or subject of a work of art
 
 verb
-
-other word forms
-1. living
-2. lively
-3. alive
 
 IDIOMS
 [^1]a fact of life

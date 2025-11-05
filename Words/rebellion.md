@@ -1,3 +1,6 @@
+other word forms
+- rebel
+
 DEFINITIONS
 noun
 

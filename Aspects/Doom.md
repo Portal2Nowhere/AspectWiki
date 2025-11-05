@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. death, destruction, or any very bad situation that cannot be avoided
@@ -9,8 +11,6 @@ noun
 verb
 1. to make something bad certain to happen
 2.  to die or to fail
-
-other word forms
 
 IDIOMS
 [^1]Doom and Gloom

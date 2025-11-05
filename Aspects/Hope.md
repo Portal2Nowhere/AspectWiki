@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. courage, determination
@@ -8,8 +10,6 @@ noun
 verb
 1.  to want something to happen or to be true, and usually have a good reason to think that it might
 2.  to place trust; rely
-
-other word forms
 
 IDIOMS
 [^1]hope against hope
@@ -36,7 +36,7 @@ INTERNAL LINKS
 [[goal]] synonym 5
 [[aspiration]] noun 1,2 & verb 1, synonym 3 & idiom [^1]
 [[ambition]] noun 1,2 & verb 1, synonym 2 & idiom [^1]
-[[trust]] noun 1,2, synonym 6, 7, idiom [^2][^3]
+[[trust]] verb 1,2, synonym 6, 7, idiom [^2][^3]
 
 
 EXTERNAL LINKS
@@ -47,6 +47,12 @@ https://www.merriam-webster.com/thesaurus/hope
 https://idioms.thefreedictionary.com/hope
 
 #hope
+
+# extra content
+
+quotes
+- Discworld: You need to believe in things that aren't true, how else can they become? https://www.youtube.com/watch?v=DHSwvtHFsOU
+- 
 
 [^1]: to hope very strongly that something will happen, although you know it is not likely:
 

@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. used to refer to a person's character
@@ -6,8 +8,6 @@ noun
 4. courage, determination
 5. the organ in your chest that sends the blood around your body
 6. to love something
-
-other word forms
 
 IDIOMS
 [^1]take/ lose heart

@@ -1,3 +1,8 @@
+other word forms
+1. avoid
+2. devoid
+3. cosmic void (dark space)
+
 DEFINITIONS
 adjective
 1. Invalid; null
@@ -16,11 +21,6 @@ noun
 verb
 1. To declare something as invalid; invalidate; nullify
 2. To empty (out)
-
-other word forms
-1. avoid
-2. devoid
-3. cosmic void (dark space)
 
 IDIOMS
  1. [^1]fill the void
