@@ -7,7 +7,7 @@ IDIOMS
 [^1]a revolution is not a dinner party
 
 INTERNAL LINKS
-[[chaos]] [^1]
+[[chaos]] idiom [^1]
 [[violent]] idiom [^1]
 
 EXTERNAL LINKS
