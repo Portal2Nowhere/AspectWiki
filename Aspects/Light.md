@@ -1,3 +1,8 @@
+other word forms
+1. lighting
+2. lit
+3. alight
+
 DEFINITIONS
 noun
 1. something that makes things visible or affords illumination.
@@ -19,11 +24,6 @@ adjective
 verb
 1. to cause (the face, surroundings, etc.) to brighten, especially with joy, animation, or the like (such as in "lighten up" ).
 2. to become illuminated when switched on.
-
-other word forms
-1. lighting
-2. lit
-3. alight
 
 IDIOMS
 [^1]light bulb

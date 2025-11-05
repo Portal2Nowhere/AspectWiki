@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. the unlimited or incalculably great three-dimensional realm or expanse in which all material objects are located and all events occur.
@@ -11,8 +13,6 @@ noun
 verb
 1. to set some distance apart.
 2. of, relating to, or concerned with outer space or deep space.
-
-other word forms
 
 IDIOMS
 [^1]be lost in space/ space out

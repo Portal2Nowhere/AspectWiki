@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. the part of existence that is measured in minutes, days, years, etc., or this process considered as a whole
@@ -17,8 +19,6 @@ adjective
 verb
 1. to measure or record the speed, duration, or rate of.
 2. to fix the duration of.
-
-other word forms
 
 IDIOMS
 

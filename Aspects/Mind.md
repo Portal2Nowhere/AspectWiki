@@ -1,3 +1,5 @@
+other word forms
+
 DEFINITIONS
 noun
 1. (in a human or other conscious being) the element, part, substance, or process that reasons, thinks, feels, wills, perceives, judges, etc.. 
@@ -14,8 +16,6 @@ noun
 verb
 1. to pay attention.
 2. to be careful or wary.
-
-other word forms
 
 IDIOMS
 [^1]change one's mind

@@ -1,3 +1,7 @@
+other word forms
+1. breathing
+2. breathe
+
 DEFINITIONS
 noun
 1. the air inhaled and exhaled in respiration.
@@ -6,10 +10,6 @@ noun
 4. time to breathe; pause or respite.
 5. exhalation or vapor.
 6. a slight gust of air
-
-other word forms
-1. breathing
-2. breathe
 
 IDIOMS
 [^1]breath of fresh air
