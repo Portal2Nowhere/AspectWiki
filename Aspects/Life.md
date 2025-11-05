@@ -24,14 +24,14 @@ IDIOMS
 [^8]while there's life there's hope
 
 INTERNAL LINKS
-[[living]] noun 1,2 & idiom 1,3,6,8
-[[vigor]] noun 3,4 & idiom 5,6
-[[excitement]] noun 3 & idiom 5,6
+[[living]] noun 1,2 & idiom [^1][^3][^6][^8]
+[[vigor]] noun 3,4 & idiom [^5][^6]
+[[excitement]] noun 3 & idiom [^5][^6]
 [[growth]] noun 4
-[[kindness]] idiom 2
-[[survival]] idiom 4
-[[fulfillment]] idiom 6,7
-[[wealth]] idiom 7
+[[kindness]] idiom [^2]
+[[survival]] idiom [^4]
+[[fulfillment]] idiom [^6][^7]
+[[wealth]] idiom [^7]
 [[nature]] noun 5
 
 EXTERNAL LINKS

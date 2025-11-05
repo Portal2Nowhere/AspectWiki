@@ -31,15 +31,15 @@ IDIOMS
 make up ones mind ------------------------
 
 INTERNAL LINKS
-[[memory]] noun 5 & idiom 9, 10
-[[thought]] noun 1,4,9 & idiom 2,4,5
+[[memory]] noun 5 & idiom [^9][^10]
+[[thought]] noun 1,4,9 & idiom [^2][^4][^5]
 [[reason]] noun 3
 [[intellect]] noun 2,8
-[[imagination]] idiom 6
-[[plan]] noun 7 & idiom 1,7
-[[opinion]] noun 6 & idiom 1,2,5,7
-[[intention]] noun 7,9,10 & idiom 7
-[[choice]] noun 7,10 & idiom 1
+[[imagination]] idiom [^6]
+[[plan]] noun 7 & idiom [^1][^7]
+[[opinion]] noun 6 & idiom [^1][^2][^5][^7]
+[[intention]] noun 7,9,10 & idiom [^7]
+[[choice]] noun 7,10 & idiom [^1]
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/mind
