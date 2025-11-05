@@ -13,6 +13,7 @@ INTERNAL LINKS
 [[violent]] idiom [^1]
 
 EXTERNAL LINKS
+https://idioms.thefreedictionary.com/revolution
 
 #rage 
 
