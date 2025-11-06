@@ -47,7 +47,6 @@ https://www.merriam-webster.com/thesaurus/hope
 https://idioms.thefreedictionary.com/hope
 
 #hope
-
 # extra content
 
 quotes

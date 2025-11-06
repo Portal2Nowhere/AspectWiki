@@ -54,6 +54,11 @@ https://idioms.thefreedictionary.com/time
 https://idioms.thefreedictionary.com/stitch+in+time+saves+nine
 
 #time
+# extra content
+quotes
+
+videos
+- https://youtu.be/aDaOgu2CQtI do the evolution, it has the meaty concepts of time, such as the destruction, the cycles/ how the violence all repeats and exploiting to produce.
 
 [^1]: time is a valuable resource, therefore it's better to do things as quickly as possible.
 
