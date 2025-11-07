@@ -1,6 +1,6 @@
 other word forms
-- cycles
-- repeat
+- cycles, repeat ^4604ed
+- 
 
 DEFINITIONS
 noun

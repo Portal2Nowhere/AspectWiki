@@ -22,7 +22,7 @@ verb
 
 IDIOMS
 
-[^1]time is money
+[^1i]time is money
 [^2]time after time
 [^3]take one's time
 [^4]keep time
@@ -34,12 +34,12 @@ IDIOMS
 [^10]the ravages of time
 
 INTERNAL LINKS
-[[repetition]] noun10 & idiom [^2]
+[[repetition#^4604ed|repetition]] noun10 & idiom [^2]
 [[moment]] noun 1,4,7 & idiom [^7][^8]
 [[duration]] noun 2,3,4,6 & verb 1,2
 [[event]] noun 5,6,7
 [[speed]] noun 5,8,9 & verb 1 & idiom [^1][^3][^8]
-CONSIDER BETTER WORD [[productivity]] idiom [^1][^6]
+CONSIDER BETTER WORD [[productivity]] idiom [^1i][^6]
 [[tempo]] noun 9 & idiom [^4]
 CONSIDER BETTER WORD [[end]] idiom [^5]
 [[decisive]] idiom[^9]
@@ -59,8 +59,9 @@ quotes
 
 videos
 - https://youtu.be/aDaOgu2CQtI do the evolution, it has the meaty concepts of time, such as the destruction, the cycles/ how the violence all repeats and exploiting to produce.
+[^1v]:pie
 
-[^1]: time is a valuable resource, therefore it's better to do things as quickly as possible.
+[^1i]: time is a valuable resource, therefore it's better to do things as quickly as possible.
 
 [^2]: again and again; repeatedly; often.
 
