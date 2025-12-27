@@ -34,7 +34,7 @@ IDIOMS
 [^10]the ravages of time
 
 INTERNAL LINKS
-[[repetition#^4604ed|repetition]] noun10 & idiom [^2]
+[[repeat]] noun10 & idiom [^2]
 [[moment]] noun 1,4,7 & idiom [^7][^8]
 [[duration]] noun 2,3,4,6 & verb 1,2
 [[event]] noun 5,6,7
