@@ -18,7 +18,7 @@ IDIOMS
 
 
 INTERNAL LINKS
-[[freedom]]
+[[freedom]] idiom
 [[happy]]
 [[refreshing]]
 [[speech]]

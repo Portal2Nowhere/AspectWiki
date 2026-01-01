@@ -18,9 +18,8 @@ IDIOMS
 
 
 INTERNAL LINKS
-[[freedom]] 
-[[change]] 
-[[movement]] 
+[[change]] idiom[^2]
+[[movement]] idiom[^1][^3]
 
 EXTERNAL LINKS
 https://www.dictionary.com/browse/wind
